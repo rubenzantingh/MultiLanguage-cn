@@ -5465,7 +5465,7 @@ MultiLanguageNpcData['cn'][71486] = {name = "炉石天马", subname = nil}
 MultiLanguageNpcData['cn'][71489] = {name = "火焰陷阱", subname = nil}
 MultiLanguageNpcData['cn'][71490] = {name = "火焰陷阱", subname = nil}
 MultiLanguageNpcData['cn'][71491] = {name = "祭祀守护者", subname = nil}
-MultiLanguageNpcData['cn'][71492] = {name = "玛拉古", subname = nil}
+MultiLanguageNpcData['cn'][71492] = {name = "玛拉古", subname = "金色大门守卫"}
 MultiLanguageNpcData['cn'][71493] = {name = "荡绳", subname = nil}
 MultiLanguageNpcData['cn'][71494] = {name = "荡绳", subname = nil}
 MultiLanguageNpcData['cn'][71495] = {name = "荡绳", subname = nil}
@@ -27345,7 +27345,7 @@ MultiLanguageNpcData['cn'][97017] = {name = "Zip Line", subname = nil}
 MultiLanguageNpcData['cn'][97019] = {name = "Argent Hippogryph", subname = nil}
 MultiLanguageNpcData['cn'][97020] = {name = "信天翁雏鸟", subname = nil}
 MultiLanguageNpcData['cn'][97021] = {name = "Argent Hippogryph", subname = nil}
-MultiLanguageNpcData['cn'][97022] = {name = "Greater Lightning Elemental", subname = nil}
+MultiLanguageNpcData['cn'][97022] = {name = "强力闪电元素", subname = nil}
 MultiLanguageNpcData['cn'][97023] = {name = "Kat Sunflower", subname = nil}
 MultiLanguageNpcData['cn'][97024] = {name = "Baroness Zildjia", subname = nil}
 MultiLanguageNpcData['cn'][97025] = {name = "Conjurer Weinhaus", subname = nil}
@@ -27693,6 +27693,7 @@ MultiLanguageNpcData['cn'][97431] = {name = "Water Bucket", subname = nil}
 MultiLanguageNpcData['cn'][97432] = {name = "Medium Fire", subname = nil}
 MultiLanguageNpcData['cn'][97433] = {name = "无能的斗士", subname = nil}
 MultiLanguageNpcData['cn'][97434] = {name = "Snapjaw", subname = nil}
+MultiLanguageNpcData['cn'][97435] = {name = "Evan O'Shivers", subname = nil}
 MultiLanguageNpcData['cn'][97436] = {name = "Comfy Campfire", subname = nil}
 MultiLanguageNpcData['cn'][97437] = {name = "Rivermane Tauren", subname = nil}
 MultiLanguageNpcData['cn'][97438] = {name = "Donovan", subname = "[Lorna Crowley's Companion]"}
@@ -41188,6 +41189,7 @@ MultiLanguageNpcData['cn'][112441] = {name = "罗伯特·纽哈斯", subname = "
 MultiLanguageNpcData['cn'][112442] = {name = "夜之子猎狐人", subname = nil}
 MultiLanguageNpcData['cn'][112443] = {name = "沃平", subname = nil}
 MultiLanguageNpcData['cn'][112444] = {name = "高地天鹰", subname = nil}
+MultiLanguageNpcData['cn'][112445] = {name = "强尼·傲森", subname = "高玩公会"}
 MultiLanguageNpcData['cn'][112446] = {name = "1% Credit", subname = nil}
 MultiLanguageNpcData['cn'][112447] = {name = "3% Credit", subname = nil}
 MultiLanguageNpcData['cn'][112448] = {name = "5% Credit", subname = nil}
@@ -45027,7 +45029,7 @@ MultiLanguageNpcData['cn'][116709] = {name = "克瓦迪尔爪牙", subname = nil
 MultiLanguageNpcData['cn'][116710] = {name = "克瓦迪尔爪牙", subname = nil}
 MultiLanguageNpcData['cn'][116711] = {name = "战地指挥官的宝座", subname = nil}
 MultiLanguageNpcData['cn'][116713] = {name = "黑暗映像", subname = nil}
-MultiLanguageNpcData['cn'][116714] = {name = "雷特森·焰怒", subname = nil}
+MultiLanguageNpcData['cn'][116714] = {name = "雷特森·焰怒", subname = "黑暗收割议会"}
 MultiLanguageNpcData['cn'][116715] = {name = "堕夜叛军", subname = nil}
 MultiLanguageNpcData['cn'][116716] = {name = "夜之子反叛者", subname = nil}
 MultiLanguageNpcData['cn'][116717] = {name = "Demon Wave Event Controller", subname = nil}
