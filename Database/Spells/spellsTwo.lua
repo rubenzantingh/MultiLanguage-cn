@@ -1,4 +1,3 @@
-MultiLanguageSpellData['cn'][77391] = {name = "水泵时间", additional_info = nil}
 MultiLanguageSpellData['cn'][77392] = {name = "发光卵", additional_info = nil}
 MultiLanguageSpellData['cn'][77393] = {name = "超级安全个人发射器", additional_info = nil}
 MultiLanguageSpellData['cn'][77394] = {name = "艾维娜的祈祷", additional_info = "5 码范围\n3秒 施法时间\n[q]召唤复苏的艾维娜灵魂。"}
@@ -5964,7 +5963,6 @@ MultiLanguageSpellData['cn'][85330] = {name = "Summon Camera Bunny", additional_
 MultiLanguageSpellData['cn'][85331] = {name = "Creator Summon Camera", additional_info = nil}
 MultiLanguageSpellData['cn'][85332] = {name = "Lirastrasza Credit", additional_info = nil}
 MultiLanguageSpellData['cn'][85333] = {name = "Camera to Statue Beam", additional_info = nil}
-MultiLanguageSpellData['cn'][85334] = {name = "召唤维克斯图", additional_info = nil}
 MultiLanguageSpellData['cn'][85337] = {name = "维克斯图死亡", additional_info = nil}
 MultiLanguageSpellData['cn'][85338] = {name = "Summon Chest Target", additional_info = nil}
 MultiLanguageSpellData['cn'][85339] = {name = "See Quest Invis 5", additional_info = nil}
@@ -6496,7 +6494,7 @@ MultiLanguageSpellData['cn'][85979] = {name = "风暴冲击", additional_info = 
 MultiLanguageSpellData['cn'][85980] = {name = "风暴冲击", additional_info = nil}
 MultiLanguageSpellData['cn'][85981] = {name = "幽灵出生", additional_info = nil}
 MultiLanguageSpellData['cn'][85998] = {name = "Up to the Citadel: Summon Cho'gall - Alliance", additional_info = nil}
-MultiLanguageSpellData['cn'][86000] = {name = "古尔丹邪咒", additional_info = "22% 法力值 值 无限范围\n瞬发\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities any Warlock demon pets. The aura lasts for 15 sec."}
+MultiLanguageSpellData['cn'][86000] = {name = "古尔丹邪咒", additional_info = "22% 法力值 值 无限范围\n瞬发\n[q]Summons a falling meteor down upon the enemy target, dealing 1793 Shadowflame damage and erupts an aura of magic within 4 yards, causing all targets within it to have a 10% increased chance to be critically hit by the abilities of any Warlock demon pets. The aura lasts for 15 sec."}
 MultiLanguageSpellData['cn'][86002] = {name = "恶臭吸收", additional_info = "瞬发\n[q]受到疾病之云的保护。吸收120点伤害。"}
 MultiLanguageSpellData['cn'][86003] = {name = "没有反应", additional_info = "瞬发\n[q]这头龙遭到了重创。它的眼睛显得空洞失神。鲜血正从它肋侧和后背上的许多伤口中汩汩涌出。"}
 MultiLanguageSpellData['cn'][86004] = {name = "秋闲墨水", additional_info = "2秒 施法时间\n工具:\n学者的书写工具\n施法材料:\n烬色染料 (2)"}
@@ -14782,7 +14780,7 @@ MultiLanguageSpellData['cn'][98159] = {name = "熔岩陷阱", additional_info = 
 MultiLanguageSpellData['cn'][98161] = {name = "小精灵至传送门脉动光环", additional_info = nil}
 MultiLanguageSpellData['cn'][98162] = {name = "Portal to Wisp Response", additional_info = nil}
 MultiLanguageSpellData['cn'][98163] = {name = "龙族预光束效果", additional_info = nil}
-MultiLanguageSpellData['cn'][98164] = {name = "熔岩陷阱", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯在目标地点制造一个熔岩陷阱。当熔岩陷阱被触发时，会导致熔岩陷阱喷发，对全部敌人造成97500 to 102500点火焰伤害，并会将触发熔岩陷阱的敌人击飞到很高的地方。"}
+MultiLanguageSpellData['cn'][98164] = {name = "熔岩陷阱", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯在目标地点制造一个熔岩陷阱。当熔岩陷阱被触发时，会导致熔岩陷阱喷发，对全部敌人造成117000 to 123000点火焰伤害，并会将触发熔岩陷阱的敌人击飞到很高的地方。"}
 MultiLanguageSpellData['cn'][98165] = {name = "暮光光束 - 左前方", additional_info = nil}
 MultiLanguageSpellData['cn'][98166] = {name = "暮光光束 - 右前方", additional_info = nil}
 MultiLanguageSpellData['cn'][98167] = {name = "暮光光束 - 后方", additional_info = nil}
@@ -14792,7 +14790,7 @@ MultiLanguageSpellData['cn'][98171] = {name = "熔岩陷阱", additional_info = 
 MultiLanguageSpellData['cn'][98172] = {name = "熔岩陷阱", additional_info = nil}
 MultiLanguageSpellData['cn'][98173] = {name = "Kalecgos Beam Impact", additional_info = nil}
 MultiLanguageSpellData['cn'][98174] = {name = "Arcane Barrage Visual", additional_info = nil}
-MultiLanguageSpellData['cn'][98175] = {name = "熔岩陷阱喷发", additional_info = "无限范围\n瞬发\n[q]熔岩猛烈喷发，对所有敌人造成97500 to 102500点火焰伤害，并将8码内的敌人击飞至空中。"}
+MultiLanguageSpellData['cn'][98175] = {name = "熔岩陷阱喷发", additional_info = "无限范围\n瞬发\n[q]熔岩猛烈喷发，对所有敌人造成117000 to 123000点火焰伤害，并将8码内的敌人击飞至空中。"}
 MultiLanguageSpellData['cn'][98177] = {name = "制造老鼠覆面", additional_info = nil}
 MultiLanguageSpellData['cn'][98178] = {name = "制造老鼠", additional_info = nil}
 MultiLanguageSpellData['cn'][98179] = {name = "熔岩陷阱", additional_info = nil}
@@ -14843,7 +14841,7 @@ MultiLanguageSpellData['cn'][98231] = {name = "炸弹脉冲", additional_info = 
 MultiLanguageSpellData['cn'][98233] = {name = "顶部爆炸", additional_info = nil}
 MultiLanguageSpellData['cn'][98234] = {name = "嘲讽最近攻击者", additional_info = nil}
 MultiLanguageSpellData['cn'][98235] = {name = "顶部爆炸", additional_info = nil}
-MultiLanguageSpellData['cn'][98237] = {name = "拉格纳罗斯之手", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯之手对55码范围内的全部敌人造成33150 to 34850点火焰伤害，并将他们击退。"}
+MultiLanguageSpellData['cn'][98237] = {name = "拉格纳罗斯之手", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯之手对55码范围内的全部敌人造成39000 to 41000点火焰伤害，并将他们击退。"}
 MultiLanguageSpellData['cn'][98238] = {name = "鼠肉诱饵", additional_info = nil}
 MultiLanguageSpellData['cn'][98239] = {name = "血性狂乱", additional_info = "瞬发\n[q]攻击速度提高150%。\n 造成的伤害提高50%。"}
 MultiLanguageSpellData['cn'][98240] = {name = "黑暗爆炸", additional_info = nil}
@@ -14864,7 +14862,7 @@ MultiLanguageSpellData['cn'][98256] = {name = "专注", additional_info = nil}
 MultiLanguageSpellData['cn'][98257] = {name = "Boss Emote Kalecgos 03", additional_info = nil}
 MultiLanguageSpellData['cn'][98259] = {name = "拉格纳罗斯之怒", additional_info = nil}
 MultiLanguageSpellData['cn'][98261] = {name = "苦果炸弹", additional_info = "0.1 秒 施法时间\n[q]将这颗炸弹放到你面前的地上。"}
-MultiLanguageSpellData['cn'][98263] = {name = "拉格纳罗斯之怒", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯之怒对目标周围6码范围内的敌人造成62156 to 65343点火焰伤害，并将其击退。"}
+MultiLanguageSpellData['cn'][98263] = {name = "拉格纳罗斯之怒", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯之怒对目标周围6码范围内的敌人造成73125 to 76875点火焰伤害，并将其击退。"}
 MultiLanguageSpellData['cn'][98264] = {name = "喷发", additional_info = "瞬发\n[q]火山即将喷发。"}
 MultiLanguageSpellData['cn'][98265] = {name = "熔岩炽管", additional_info = nil}
 MultiLanguageSpellData['cn'][98267] = {name = "召唤濒死的泰蕾苟萨", additional_info = nil}
@@ -14979,18 +14977,18 @@ MultiLanguageSpellData['cn'][98443] = {name = "灼热旋风", additional_info = 
 MultiLanguageSpellData['cn'][98444] = {name = "维库饮水角", additional_info = "1.5秒 施法时间\n[q]畅饮这个维库饮水角。"}
 MultiLanguageSpellData['cn'][98445] = {name = "缚于琥珀中", additional_info = "1秒 施法时间 30分钟 冷却\n[q]缚于琥珀之中。"}
 MultiLanguageSpellData['cn'][98447] = {name = "寄魂战鼓", additional_info = "5 码范围\n3秒 施法时间\n[q]放置并聆听一个寄魂战鼓。"}
-MultiLanguageSpellData['cn'][98450] = {name = "灼热之种", additional_info = "4秒 施法时间\n[q]在施法者的敌人身上植入灼热之种。每颗种子都以不同的速率生长。完全长成之后，种子就会爆炸，对12码范围内的目标造成63750点火焰伤害。"}
+MultiLanguageSpellData['cn'][98450] = {name = "灼热之种", additional_info = "4秒 施法时间\n[q]在施法者的敌人身上植入灼热之种。每颗种子都以不同的速率生长。完全长成之后，种子就会爆炸，对12码范围内的目标造成75000点火焰伤害。"}
 MultiLanguageSpellData['cn'][98451] = {name = "燃烧宝珠", additional_info = "4秒 施法时间\n[q]召唤燃烧宝珠攻击施法者的敌人。"}
 MultiLanguageSpellData['cn'][98462] = {name = "炽热山火", additional_info = nil}
 MultiLanguageSpellData['cn'][98463] = {name = "炽热山火", additional_info = "无限范围\n瞬发\n[q]造成火焰伤害。"}
 MultiLanguageSpellData['cn'][98466] = {name = "反抗军营地防御者", additional_info = nil}
 MultiLanguageSpellData['cn'][98468] = {name = "射击", additional_info = "45 码范围\n瞬发\n需要 远程武器\n[q]射击一个敌人，造成物理伤害。"}
 MultiLanguageSpellData['cn'][98470] = {name = "格罗姆高守卫者", additional_info = nil}
-MultiLanguageSpellData['cn'][98471] = {name = "灼热酸液", additional_info = "80 码范围\n瞬发 2秒 冷却\n[q]对一名敌人造成26347 to 29562点火焰伤害。"}
+MultiLanguageSpellData['cn'][98471] = {name = "灼热酸液", additional_info = "80 码范围\n瞬发 2秒 冷却\n[q]对一名敌人造成30914 to 34862点火焰伤害。"}
 MultiLanguageSpellData['cn'][98472] = {name = "岩浆", additional_info = "瞬发\n[q]每3秒造成一次火焰伤害。"}
 MultiLanguageSpellData['cn'][98473] = {name = "灼烧之速", additional_info = "无限范围\n瞬发\n[q]烈焰之子的速度因生命值降低而降低，当生命值达到50%时完全减速。"}
 MultiLanguageSpellData['cn'][98474] = {name = "烈焰镰刀", additional_info = "100能量\n瞬发\n[q]在施法者面前造成火焰伤害。伤害量由所有被击中的目标分摊。"}
-MultiLanguageSpellData['cn'][98476] = {name = "烈焰飞扑", additional_info = "100能量 90 码范围\n瞬发\n[q]跳向一名敌人，在一小片区域内造成26036 to 29213点火焰伤害，并制造出一个烈焰之魂。"}
+MultiLanguageSpellData['cn'][98476] = {name = "烈焰飞扑", additional_info = "100能量 90 码范围\n瞬发\n[q]跳向一名敌人，在一小片区域内造成30630 to 34368点火焰伤害，并制造出一个烈焰之魂。"}
 MultiLanguageSpellData['cn'][98477] = {name = "4.1 - ZG Event - RC/GG - Summon Bloodlord Mandokir", additional_info = nil}
 MultiLanguageSpellData['cn'][98478] = {name = "4.1 - ZG Event - RC/GG - Summon Bloodlord Mandokir", additional_info = nil}
 MultiLanguageSpellData['cn'][98479] = {name = "系住", additional_info = "40 码范围\n瞄准 (0秒 施法时间)\n[q]一条沉重的锁链。"}
@@ -15003,9 +15001,9 @@ MultiLanguageSpellData['cn'][98489] = {name = "熔岩打击", additional_info = 
 MultiLanguageSpellData['cn'][98491] = {name = "熔岩打击", additional_info = "无限范围\n瞬发\n[q]造成10000点火焰伤害并使受到的火焰伤害提高10%。可叠加20次。持续until cancelled。"}
 MultiLanguageSpellData['cn'][98492] = {name = "喷涌", additional_info = "无限范围\n瞬发\n[q]造成12000点火焰伤害并使受到的火焰伤害提高10%。可叠加20次。持续15 sec。"}
 MultiLanguageSpellData['cn'][98493] = {name = "触发火山喷发", additional_info = "瞬发\n[q]引发目标火山的熔岩喷发。"}
-MultiLanguageSpellData['cn'][98495] = {name = "熔火之种", additional_info = "无限范围\n瞬发\n[q]向目标射出熔火之种，对6码范围内的敌人造成62156 to 65343点火焰伤害。"}
+MultiLanguageSpellData['cn'][98495] = {name = "熔火之种", additional_info = "无限范围\n瞬发\n[q]向目标射出熔火之种，对6码范围内的敌人造成73125 to 76875点火焰伤害。"}
 MultiLanguageSpellData['cn'][98497] = {name = "熔火之种", additional_info = nil}
-MultiLanguageSpellData['cn'][98498] = {name = "熔火之种", additional_info = "无限范围\n瞬发\n[q]对6码范围内的敌人造成62156 to 65343点火焰伤害，并在地上制造出一颗熔火之种。"}
+MultiLanguageSpellData['cn'][98498] = {name = "熔火之种", additional_info = "无限范围\n瞬发\n[q]对6码范围内的敌人造成73125 to 76875点火焰伤害，并在地上制造出一颗熔火之种。"}
 MultiLanguageSpellData['cn'][98499] = {name = "流星", additional_info = "无限范围\n瞬发\n[q]一颗流星从空中坠落。"}
 MultiLanguageSpellData['cn'][98500] = {name = "流星打击", additional_info = "40 码范围\n瞬发\n[q]灼热的流星撞击地面，爆炸后对周围玩家造成27750 to 32250点伤害并将其击退。"}
 MultiLanguageSpellData['cn'][98501] = {name = "暖气流喷管", additional_info = "瞬发\n[q]上升暖气流可以使你比一般情况下跳得更远。\n（500毫秒 冷却）"}
@@ -15036,7 +15034,7 @@ MultiLanguageSpellData['cn'][98531] = {name = "狼人感染", additional_info = 
 MultiLanguageSpellData['cn'][98532] = {name = "狼人感染", additional_info = "近战范围\n瞬发\n[q]使目标暂时成为狼人之咒的受害者。变形后，近战、远程和施法速度提高20%，但是护甲值降低20%。"}
 MultiLanguageSpellData['cn'][98533] = {name = "[q4]绝种龟壳", additional_info = "3秒 施法时间 15\n[q]龟是一个古老的物种，千万年来几乎没有什么改变。主要分为三类：海龟、陆地龟以及淡水龟。这个壳可能属于一只陆地龟，其貌不扬，不过它几乎坚不可摧，可以做为绝佳的护盾。\n[q4]绝种龟壳\n账号绑定\n副手 盾\n11896护甲\n+190 力量\n+286 耐力\n[q2]+ 134精通\n耐久: 120 / 120\n85"}
 MultiLanguageSpellData['cn'][98534] = {name = "流星灼烧", additional_info = "40 码范围\n瞬发\n[q]烟尘从流星砸出的焦黑大坑中升起。"}
-MultiLanguageSpellData['cn'][98535] = {name = "烈焰飞扑", additional_info = "无限范围\n瞬发\n[q]范达尔扑向一名敌人，在身后留下一个烈焰之魂。他会在荣耀的火焰中落地，并将地面点燃，对敌人造成每0.5秒26036 to 29213点火焰伤害，持续1 min。"}
+MultiLanguageSpellData['cn'][98535] = {name = "烈焰飞扑", additional_info = "无限范围\n瞬发\n[q]范达尔扑向一名敌人，在身后留下一个烈焰之魂。他会在荣耀的火焰中落地，并将地面点燃，对敌人造成每0.5秒30630 to 34368点火焰伤害，持续1 min。"}
 MultiLanguageSpellData['cn'][98536] = {name = "See Quest Invis 1", additional_info = nil}
 MultiLanguageSpellData['cn'][98537] = {name = "See Quest Invis 2", additional_info = nil}
 MultiLanguageSpellData['cn'][98538] = {name = "See Quest Invis 10", additional_info = nil}
@@ -15081,7 +15079,7 @@ MultiLanguageSpellData['cn'][98580] = {name = "Reverse Cast Mirror Image", addit
 MultiLanguageSpellData['cn'][98581] = {name = "镜像光环", additional_info = nil}
 MultiLanguageSpellData['cn'][98582] = {name = "[q3]翼手龙宝宝", additional_info = "3秒 施法时间 15\n[q]这是一只十分可爱的绿色翼手龙宝宝！更棒的是，按她这样的体型发出的音速尖啸，不会对你的耳膜产生任何伤害。当她试着咬你的脸时，就像小蜥蜴或是小鸟在舔你的脸。太可爱了！\n[q3]翼手龙宝宝\n拾取后绑定\n[q2]使用:  教你学会召唤这种小伙伴。\n[q2]右键点击以召唤或解散翼手龙宝宝。"}
 MultiLanguageSpellData['cn'][98583] = {name = "燃烧宝珠", additional_info = nil}
-MultiLanguageSpellData['cn'][98584] = {name = "燃烧宝珠", additional_info = "200 码范围\n瞬发\n[q]每2秒造成7650点火焰伤害。可叠加。"}
+MultiLanguageSpellData['cn'][98584] = {name = "燃烧宝珠", additional_info = "200 码范围\n瞬发\n[q]每2秒造成9000点火焰伤害。可叠加。"}
 MultiLanguageSpellData['cn'][98585] = {name = "暖气流喷管", additional_info = "瞬发\n[q]上升暖气流可以使你比一般情况下跳得更远。"}
 MultiLanguageSpellData['cn'][98586] = {name = "暖气流喷管波动", additional_info = "瞬发\n[q]上升暖气流可以使你比一般情况下跳得更远。"}
 MultiLanguageSpellData['cn'][98587] = {name = "巫毒雕像", additional_info = "瞬发\n[q]右键点击以召唤或解散你的巫毒雕像。"}
@@ -15106,7 +15104,7 @@ MultiLanguageSpellData['cn'][98614] = {name = "保护索罗和安伦", additiona
 MultiLanguageSpellData['cn'][98616] = {name = "标记位置", additional_info = nil}
 MultiLanguageSpellData['cn'][98618] = {name = "蛛网抛掷", additional_info = nil}
 MultiLanguageSpellData['cn'][98619] = {name = "烈焰之翼", additional_info = "瞬发\n[q]施法者生出火焰之翼，可以飞翔。"}
-MultiLanguageSpellData['cn'][98620] = {name = "灼热之种", additional_info = "瞬发\n[q]在施法者的敌人身上植入灼热之种。每颗种子都以不同的速率生长。完全长成之后，种子就会爆炸，对12码范围内的目标造成63750点火焰伤害。"}
+MultiLanguageSpellData['cn'][98620] = {name = "灼热之种", additional_info = "瞬发\n[q]在施法者的敌人身上植入灼热之种。每颗种子都以不同的速率生长。完全长成之后，种子就会爆炸，对12码范围内的目标造成75000点火焰伤害。"}
 MultiLanguageSpellData['cn'][98623] = {name = "蛛网细丝", additional_info = nil}
 MultiLanguageSpellData['cn'][98624] = {name = "烈焰之翼", additional_info = nil}
 MultiLanguageSpellData['cn'][98628] = {name = "戳鸟之矛", additional_info = "40 码范围\n4秒 施法时间\n[q]向一名化身火鸦的烈焰德鲁伊投掷戳鸟之矛"}
@@ -15171,7 +15169,7 @@ MultiLanguageSpellData['cn'][98704] = {name = "Camera Beam Target", additional_i
 MultiLanguageSpellData['cn'][98705] = {name = "喷焰术", additional_info = "30 码范围\n1.5秒 施法时间\n[q]在目标位置制造一个火焰喷泉。"}
 MultiLanguageSpellData['cn'][98706] = {name = "萨弗拉斯重击", additional_info = nil}
 MultiLanguageSpellData['cn'][98707] = {name = "Ride Camera - Seat 3", additional_info = nil}
-MultiLanguageSpellData['cn'][98708] = {name = "萨弗拉斯重击", additional_info = "无限范围\n瞬发\n[q]萨弗拉斯重击对5码范围内的敌人造成536250 to 563750点火焰伤害。"}
+MultiLanguageSpellData['cn'][98708] = {name = "萨弗拉斯重击", additional_info = "无限范围\n瞬发\n[q]萨弗拉斯重击对5码范围内的敌人造成102375 to 107625点火焰伤害。"}
 MultiLanguageSpellData['cn'][98709] = {name = "Ride Camera - Seat 2", additional_info = nil}
 MultiLanguageSpellData['cn'][98710] = {name = "萨弗拉斯重击", additional_info = "无限范围\n2.5秒 施法时间\n[q]拉格纳罗斯挥动萨弗拉斯，猛击地面，使猛烈的冲击力和熔岩波从目标地点向外迸发。"}
 MultiLanguageSpellData['cn'][98711] = {name = "火球术", additional_info = "40 码范围\n1秒 施法时间\n[q]对一个敌人造成火焰伤害。"}
@@ -15363,10 +15361,10 @@ MultiLanguageSpellData['cn'][98923] = {name = "Pick Up Valstann", additional_inf
 MultiLanguageSpellData['cn'][98924] = {name = "蛛卵背包", additional_info = nil}
 MultiLanguageSpellData['cn'][98925] = {name = "Switch Hands", additional_info = nil}
 MultiLanguageSpellData['cn'][98926] = {name = "消灭瓦斯坦恩", additional_info = nil}
-MultiLanguageSpellData['cn'][98928] = {name = "熔岩波浪", additional_info = "无限范围\n瞬发\n[q]造成124312 to 130687点火焰伤害，接下来每1秒造成41437 to 43562点额外火焰伤害。"}
+MultiLanguageSpellData['cn'][98928] = {name = "熔岩波浪", additional_info = "无限范围\n瞬发\n[q]造成146250 to 153750点火焰伤害，接下来每1秒造成48750 to 51250点额外火焰伤害。"}
 MultiLanguageSpellData['cn'][98929] = {name = "Invis", additional_info = nil}
 MultiLanguageSpellData['cn'][98932] = {name = "解放你的思想", additional_info = "瞬发\n[q]移动速度提高120%，持续10 sec。"}
-MultiLanguageSpellData['cn'][98934] = {name = "余烬之火", additional_info = "150 码范围\n瞬发\n[q]对所有敌人造成25858 to 30051点火焰伤害。"}
+MultiLanguageSpellData['cn'][98934] = {name = "余烬之火", additional_info = "150 码范围\n瞬发\n[q]对所有敌人造成30421 to 35355点火焰伤害。"}
 MultiLanguageSpellData['cn'][98935] = {name = "召唤玛法里奥·怒风", additional_info = nil}
 MultiLanguageSpellData['cn'][98936] = {name = "HMC Dummy Effect Passenger 1", additional_info = nil}
 MultiLanguageSpellData['cn'][98937] = {name = "HMC Dummy Effect Passenger 2", additional_info = nil}
@@ -15530,7 +15528,7 @@ MultiLanguageSpellData['cn'][99122] = {name = "Smoldering Strafe", additional_in
 MultiLanguageSpellData['cn'][99123] = {name = "死亡之握", additional_info = "30 码范围\n瞬发\n[q]运用笼罩万物的邪恶能量，将目标拉到死亡骑士面前来，并强制其攻击死亡骑士，持续3 sec。"}
 MultiLanguageSpellData['cn'][99124] = {name = "Smoldering Strafe", additional_info = nil}
 MultiLanguageSpellData['cn'][99125] = {name = "炽炎之热", additional_info = nil}
-MultiLanguageSpellData['cn'][99126] = {name = "炽炎之热", additional_info = "60 码范围\n瞬发\n[q]熔岩子嗣对一个随机目标造成炽炎之热的效果，使其留下炽炎之热的尾迹。炽炎之热每1秒造成58012 to 60987点火焰伤害，并且每1秒为烈焰之子恢复10%的生命值。"}
+MultiLanguageSpellData['cn'][99126] = {name = "炽炎之热", additional_info = "60 码范围\n瞬发\n[q]熔岩子嗣对一个随机目标造成炽炎之热的效果，使其留下炽炎之热的尾迹。炽炎之热每1秒造成68250 to 71750点火焰伤害，并且每1秒为烈焰之子恢复10%的生命值。"}
 MultiLanguageSpellData['cn'][99127] = {name = "灼热伏击", additional_info = nil}
 MultiLanguageSpellData['cn'][99128] = {name = "炽炎之热", additional_info = nil}
 MultiLanguageSpellData['cn'][99129] = {name = "炽炎之热", additional_info = nil}
@@ -15545,7 +15543,7 @@ MultiLanguageSpellData['cn'][99140] = {name = "Strafe Bunny", additional_info = 
 MultiLanguageSpellData['cn'][99141] = {name = "Smoldering Strafe", additional_info = nil}
 MultiLanguageSpellData['cn'][99142] = {name = "扭曲暮光", additional_info = "无限范围\n1.5秒 施法时间\n[q]在一条直线上造成40000点冰霜伤害并在5 sec内每1秒造成20000点冰霜伤害。"}
 MultiLanguageSpellData['cn'][99143] = {name = "气球绳", additional_info = nil}
-MultiLanguageSpellData['cn'][99144] = {name = "炽炎之热", additional_info = "无限范围\n瞬发\n[q]每1秒造成58012 to 60987点火焰伤害。"}
+MultiLanguageSpellData['cn'][99144] = {name = "炽炎之热", additional_info = "无限范围\n瞬发\n[q]每1秒造成68250 to 71750点火焰伤害。"}
 MultiLanguageSpellData['cn'][99145] = {name = "炽炎之热", additional_info = "无限范围\n瞬发\n[q]炽炎之热每1秒为熔岩子嗣和烈焰之字恢复10%的生命值。"}
 MultiLanguageSpellData['cn'][99146] = {name = "流星灼烧", additional_info = nil}
 MultiLanguageSpellData['cn'][99148] = {name = "暮光冲击波", additional_info = "90 码范围\n2.5秒 施法时间\n[q]对一名敌人造成暗影伤害。"}
@@ -15567,7 +15565,7 @@ MultiLanguageSpellData['cn'][99164] = {name = "部落气球示意孤儿", additi
 MultiLanguageSpellData['cn'][99165] = {name = "召唤联盟气球", additional_info = "5 码范围\n1秒 施法时间\n[q]召唤一个绿色气球。"}
 MultiLanguageSpellData['cn'][99166] = {name = "孤儿的联盟气球", additional_info = "10 码范围\n瞬发 1秒 冷却\n[q]右键点击以召唤或解散你的气球。"}
 MultiLanguageSpellData['cn'][99167] = {name = "联盟气球示意孤儿", additional_info = "10 码范围\n瞬发 1秒 冷却\n[q]右键点击以召唤或解散你的气球。"}
-MultiLanguageSpellData['cn'][99171] = {name = "噬体烈焰", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯开始施放噬体烈焰，使近距离、中距离和远距离的区域充满火焰，每1秒造成74587 to 78412点火焰伤害，持续1 sec。"}
+MultiLanguageSpellData['cn'][99171] = {name = "噬体烈焰", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯开始施放噬体烈焰，使近距离、中距离和远距离的区域充满火焰，每1秒造成87750 to 92250点火焰伤害，持续1 sec。"}
 MultiLanguageSpellData['cn'][99172] = {name = "噬体烈焰", additional_info = "无限范围\n2.5秒 施法时间\n[q]拉格纳罗斯开始让他身边的平台区域陷入熊熊烈火！"}
 MultiLanguageSpellData['cn'][99173] = {name = "灼烧之伤", additional_info = "无限范围\n瞬发\n[q]你的近战爆击会在4 sec内造成6%的额外伤害并算作火焰伤害。"}
 MultiLanguageSpellData['cn'][99174] = {name = "Item - Rogue T12 2P Bonus", additional_info = "[q]你的近战爆击将在4 sec内额外造成6%的火焰伤害。"}
@@ -15610,7 +15608,7 @@ MultiLanguageSpellData['cn'][99219] = {name = "粘性蛛网", additional_info = 
 MultiLanguageSpellData['cn'][99220] = {name = "Item - Warlock T12 2P Bonus", additional_info = "[q]你的持续性伤害有一定几率召唤一个火焰小鬼为你作战，持续15 sec。\n（特效触发几率：5%，45秒 冷却）"}
 MultiLanguageSpellData['cn'][99221] = {name = "火焰小鬼", additional_info = "瞬发\n[q]召唤一只火焰小鬼为你作战。"}
 MultiLanguageSpellData['cn'][99223] = {name = "粘性蛛网", additional_info = nil}
-MultiLanguageSpellData['cn'][99224] = {name = "噬体烈焰", additional_info = "无限范围\n瞬发\n[q]造成74587 to 78412点火焰伤害。"}
+MultiLanguageSpellData['cn'][99224] = {name = "噬体烈焰", additional_info = "无限范围\n瞬发\n[q]造成87750 to 92250点火焰伤害。"}
 MultiLanguageSpellData['cn'][99225] = {name = "噬体烈焰", additional_info = nil}
 MultiLanguageSpellData['cn'][99226] = {name = "烈焰冲击", additional_info = "40 码范围\n1.5秒 施法时间\n[q]对一个目标造成2751 to 4264点火焰伤害。"}
 MultiLanguageSpellData['cn'][99227] = {name = "Summon Burnt Tree Controller", additional_info = "40 码范围\n瞬发\n[q]种下橡果之后，地面长出了一棵树，并且开始召唤鞭笞者。"}
@@ -15651,7 +15649,7 @@ MultiLanguageSpellData['cn'][99264] = {name = "蛛卵背包", additional_info = 
 MultiLanguageSpellData['cn'][99265] = {name = "熔火巨石", additional_info = nil}
 MultiLanguageSpellData['cn'][99266] = {name = "流星巨石", additional_info = nil}
 MultiLanguageSpellData['cn'][99267] = {name = "活体流星", additional_info = nil}
-MultiLanguageSpellData['cn'][99268] = {name = "活体流星", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯召唤一颗活体流星。活体流星滚向玩家，如果撞到玩家，就会造成流星冲击，对8码范围内的敌人造成487500 to 512500点火焰伤害。"}
+MultiLanguageSpellData['cn'][99268] = {name = "活体流星", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯召唤一颗活体流星。活体流星滚向玩家，如果撞到玩家，就会造成流星冲击，对8码范围内的敌人造成107250 to 112750点火焰伤害。"}
 MultiLanguageSpellData['cn'][99269] = {name = "活体流星", additional_info = nil}
 MultiLanguageSpellData['cn'][99270] = {name = "Suicide", additional_info = nil}
 MultiLanguageSpellData['cn'][99273] = {name = "突袭", additional_info = nil}
@@ -15668,7 +15666,7 @@ MultiLanguageSpellData['cn'][99283] = {name = "奥术飞弹", additional_info = 
 MultiLanguageSpellData['cn'][99284] = {name = "凝视", additional_info = "无限范围\n瞬发\n[q]凝视目标。\n 免疫嘲讽。"}
 MultiLanguageSpellData['cn'][99285] = {name = "Despawn Shark", additional_info = nil}
 MultiLanguageSpellData['cn'][99286] = {name = "冷焰喷射", additional_info = "2秒 施法时间\n[q]对路径内的所有人造成冰霜伤害。"}
-MultiLanguageSpellData['cn'][99287] = {name = "流星冲击", additional_info = "无限范围\n瞬发\n[q]活体流星的冲击对8码内所有敌人造成487500 to 512500点火焰伤害。"}
+MultiLanguageSpellData['cn'][99287] = {name = "流星冲击", additional_info = "无限范围\n瞬发\n[q]活体流星的冲击对8码内所有敌人造成107250 to 112750点火焰伤害。"}
 MultiLanguageSpellData['cn'][99289] = {name = "充能", additional_info = "瞬发\n[q]恢复集中值。"}
 MultiLanguageSpellData['cn'][99290] = {name = "提供神圣米糕", additional_info = "10 码范围\n2秒 施法时间\n[q]在达纳苏斯的祖先祭坛供奉受祝福的米糕。"}
 MultiLanguageSpellData['cn'][99292] = {name = "怒焰", additional_info = nil}
@@ -15684,7 +15682,7 @@ MultiLanguageSpellData['cn'][99303] = {name = "燃烧", additional_info = "无�
 MultiLanguageSpellData['cn'][99304] = {name = "吞噬", additional_info = "10 码范围\n瞄准 (1秒 施法时间)\n[q]吞噬一个低阶野兽，使该单位造成的伤害提高20%，移动速度提高1%，并为其恢复相当于其最大生命值20%的生命值。"}
 MultiLanguageSpellData['cn'][99305] = {name = "进食充分", additional_info = "10 码范围\n瞬发\n[q]刚刚饱餐而不感到饥饿。"}
 MultiLanguageSpellData['cn'][99307] = {name = "提供肋排", additional_info = "5 码范围\n瞄准\n[q]向一个达纳苏斯卫兵提供美味的肋排。"}
-MultiLanguageSpellData['cn'][99308] = {name = "龟裂创伤", additional_info = "近战范围\n瞬发\n[q]使目标因流血而每0.2秒受到5100点物理伤害，持续1 min。当目标生命值低于50%时该效果被移除。"}
+MultiLanguageSpellData['cn'][99308] = {name = "龟裂创伤", additional_info = "近战范围\n瞬发\n[q]使目标因流血而每0.2秒受到6000点物理伤害，持续1 min。当目标生命值低于50%时该效果被移除。"}
 MultiLanguageSpellData['cn'][99309] = {name = "烹饪肋排", additional_info = "10 码范围\n1.5秒 施法时间\n[q]在炉子或者烹饪用火附近烹制肋排。"}
 MultiLanguageSpellData['cn'][99312] = {name = "Summon Frozen Water Elemental", additional_info = nil}
 MultiLanguageSpellData['cn'][99314] = {name = "碾米", additional_info = "5 码范围\n2.5秒 施法时间\n[q]把米研磨成米粉。"}
@@ -15946,7 +15944,7 @@ MultiLanguageSpellData['cn'][99645] = {name = "无尽时光之眼侦测隐形15"
 MultiLanguageSpellData['cn'][99646] = {name = "无情跳跃", additional_info = "无限范围\n瞬发\n[q]跳向一名敌人，对一小片区域内包括施法者在内的所有人造成42412 to 47587点火焰伤害并使其昏迷。"}
 MultiLanguageSpellData['cn'][99647] = {name = "灼热酸液", additional_info = "20 码范围\n瞬发 2秒 冷却\n[q]对一个敌人造成32244 to 36179点火焰伤害。"}
 MultiLanguageSpellData['cn'][99648] = {name = "Cancel See Invis", additional_info = nil}
-MultiLanguageSpellData['cn'][99649] = {name = "反馈火焰", additional_info = "无限范围\n瞬发\n[q]命中施法者的攻击和法术都会使火焰喷薄而出，每1秒对攻击者造成5000点火焰伤害。可叠加。\n（1秒 冷却）"}
+MultiLanguageSpellData['cn'][99649] = {name = "反馈火焰", additional_info = "无限范围\n瞬发\n[q]命中施法者的攻击和法术都会使火焰喷薄而出，每5秒对攻击者造成0点火焰伤害。可叠加。\n（1秒 冷却）"}
 MultiLanguageSpellData['cn'][99650] = {name = "反馈火焰", additional_info = "无限范围\n瞬发\n[q]每1秒造成5000点火焰伤害。"}
 MultiLanguageSpellData['cn'][99652] = {name = "[q4]颅刺", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n真金 (8), 地狱炎石 (2), 硬化源质锭 (3), 混乱宝珠 (5)\n[q4]颅刺\n装备后绑定\n单手 匕首\n616 - 1,144伤害 速度 1.80\n（每秒伤害488.89）\n+155 敏捷\n+232 耐力\n耐久: 75 / 75\n85"}
 MultiLanguageSpellData['cn'][99653] = {name = "[q4]精工源质法刃", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n真金 (8), 海洋青玉 , 碧玉 (2), 硬化源质锭 , 混乱宝珠 (5)\n[q4]精工源质法刃\n装备后绑定\n主手 匕首\n479 - 890伤害 速度 1.40\n（每秒伤害488.93）\n+232 耐力\n+155 智力\n耐久: 75 / 75\n85\n[q2]装备：法术强度提高 2,066点。"}
@@ -16082,7 +16080,7 @@ MultiLanguageSpellData['cn'][99827] = {name = "狂暴冲锋", additional_info = 
 MultiLanguageSpellData['cn'][99828] = {name = "深谙水性", additional_info = "瞬发\n[q]使你在瓦丝琪尔可以进行水下呼吸，且移动速度提高119%。"}
 MultiLanguageSpellData['cn'][99829] = {name = "熔岩喷吐", additional_info = "90 码范围\n0.5 秒 施法时间\n[q]对一名敌人造成3400 to 4600点火焰伤害，并让敌人着火燃烧，每3秒钟造成额外的4000点火焰伤害。被移除时会爆炸。"}
 MultiLanguageSpellData['cn'][99830] = {name = "火焰突变", additional_info = "瞬发 5秒 冷却\n[q]对附近的敌人造成5087 to 5912点火焰伤害，并将其击退。"}
-MultiLanguageSpellData['cn'][99832] = {name = "肢解", additional_info = "近战范围\n瞬发\n[q]这头地狱恶犬凶猛地撕咬一名敌人，造成130%普通伤害，并导致伤口流血，使其每3秒受到每层6800点伤害，持续30 sec。"}
+MultiLanguageSpellData['cn'][99832] = {name = "肢解", additional_info = "近战范围\n瞬发\n[q]这头地狱恶犬凶猛地撕咬一名敌人，造成130%普通伤害，并导致伤口流血，使其每3秒受到每层8000点伤害，持续30 sec。"}
 MultiLanguageSpellData['cn'][99835] = {name = "分离之痛", additional_info = "瞬发\n[q]当猎手和他的宠物相距太远时，他们会同时变得焦虑不安，伤害和攻击速度提高100%。"}
 MultiLanguageSpellData['cn'][99836] = {name = "投掷水晶牢笼陷阱", additional_info = "100 码范围\n瞬发 7秒 冷却\n[q]掷出一个陷阱，触发它的人会被牢固的水晶封锢。"}
 MultiLanguageSpellData['cn'][99837] = {name = "水晶牢笼陷阱效果", additional_info = "50 码范围\n瞬发\n[q]将目标困在水晶之中。"}
@@ -16090,9 +16088,9 @@ MultiLanguageSpellData['cn'][99838] = {name = "献祭陷阱", additional_info = 
 MultiLanguageSpellData['cn'][99839] = {name = "投掷献祭陷阱", additional_info = "100 码范围\n瞬发 7秒 冷却\n[q]掷出一个陷阱，触发它的人会被点燃，受到火焰伤害，受到的其它伤害也会被提高。"}
 MultiLanguageSpellData['cn'][99840] = {name = "熔喉裂隙", additional_info = "45 码范围\n1.5秒 施法时间\n[q]造成一次大型的熔岩爆炸，对附近的所有敌人造成40375 to 44625点火焰伤害，使其在1 min内受到的火焰伤害提高40%，并触发熔岩喷发。"}
 MultiLanguageSpellData['cn'][99841] = {name = "熔喉裂隙", additional_info = "无限范围\n瞬发\n[q]用冲击波对敌人造成伤害。"}
-MultiLanguageSpellData['cn'][99842] = {name = "熔喉裂隙", additional_info = "无限范围\n瞬发\n[q]对受到冲击的敌人造成100937 to 111562点火焰伤害。"}
+MultiLanguageSpellData['cn'][99842] = {name = "熔喉裂隙", additional_info = "无限范围\n瞬发\n[q]对受到冲击的敌人造成118750 to 131250点火焰伤害。"}
 MultiLanguageSpellData['cn'][99843] = {name = "炽热之爪", additional_info = nil}
-MultiLanguageSpellData['cn'][99844] = {name = "炽热之爪", additional_info = "30 码范围\n瞬发\n[q]用炽炎之爪攻击敌人，造成115625 to 134375点物理伤害并使其受到的物理和火焰伤害提高10%，持续15 sec。"}
+MultiLanguageSpellData['cn'][99844] = {name = "炽热之爪", additional_info = "30 码范围\n瞬发\n[q]用炽炎之爪攻击敌人，造成138750 to 161250点物理伤害并使其受到的物理和火焰伤害提高10%，持续15 sec。"}
 MultiLanguageSpellData['cn'][99845] = {name = "献祭", additional_info = "瞬发\n[q]对所有敌人造成7000 to 9000点火焰伤害。"}
 MultiLanguageSpellData['cn'][99846] = {name = "献祭", additional_info = "瞬发\n[q]每秒对附近的敌人造成一次火焰伤害。"}
 MultiLanguageSpellData['cn'][99847] = {name = "蛛网射击", additional_info = "30 码范围\n瞬发\n[q]造成1500点自然伤害并使移动速度降低0%。持续5秒。"}
@@ -16150,9 +16148,9 @@ MultiLanguageSpellData['cn'][99928] = {name = "召唤闪电", additional_info = 
 MultiLanguageSpellData['cn'][99931] = {name = "弧形斩", additional_info = "近战范围\n瞬发\n[q]对施法者面前的敌人造成125%的武器伤害，并使主要目标受到锯裂影响。"}
 MultiLanguageSpellData['cn'][99932] = {name = "烈焰之翼取消光环", additional_info = nil}
 MultiLanguageSpellData['cn'][99933] = {name = "Molten Feather Aura Multi-Cancel", additional_info = nil}
-MultiLanguageSpellData['cn'][99934] = {name = "灼热酸液", additional_info = "80 码范围\n瞬发 2秒 冷却\n[q]对一个敌人造成26347 to 29561点火焰伤害。"}
-MultiLanguageSpellData['cn'][99936] = {name = "锯裂", additional_info = "瞬发\n[q]每3秒造成6800点伤害，持续30 sec。可叠加。"}
-MultiLanguageSpellData['cn'][99937] = {name = "锯裂", additional_info = "瞬发\n[q]每3秒造成6800点伤害，持续30 sec。可叠加。"}
+MultiLanguageSpellData['cn'][99934] = {name = "灼热酸液", additional_info = "80 码范围\n瞬发 2秒 冷却\n[q]对一个敌人造成43240 to 48760点火焰伤害。"}
+MultiLanguageSpellData['cn'][99936] = {name = "锯裂", additional_info = "瞬发\n[q]每3秒造成8000点伤害，持续30 sec。可叠加。"}
+MultiLanguageSpellData['cn'][99937] = {name = "锯裂", additional_info = "瞬发\n[q]每3秒造成8000点伤害，持续30 sec。可叠加。"}
 MultiLanguageSpellData['cn'][99938] = {name = "木桩打击", additional_info = "40 码范围\n瞬发\n[q]木桩击中地面后对附近的敌人造成物理伤害。"}
 MultiLanguageSpellData['cn'][99939] = {name = "烧毁", additional_info = "150法力值\n瞄准 (10秒 施法时间)\n[q]向四面八方投掷熔岩巨石。"}
 MultiLanguageSpellData['cn'][99940] = {name = "烧毁", additional_info = nil}
@@ -16200,7 +16198,7 @@ MultiLanguageSpellData['cn'][99997] = {name = "阴燃光环", additional_info = 
 MultiLanguageSpellData['cn'][99998] = {name = "地火", additional_info = "2秒 施法时间\n[q]让施法者周围区域燃起烈焰，每1.5秒对附近全部敌人造成火焰伤害。持续6 sec。"}
 MultiLanguageSpellData['cn'][99999] = {name = "注视", additional_info = nil}
 MultiLanguageSpellData['cn'][100000] = {name = "你没有一点胜算", additional_info = "100000法力值\n瞬发 1.157天 冷却\n[q]当你的一切努力都成了徒劳之后，我只能为你演奏这首小曲。\n（1.157天 冷却）"}
-MultiLanguageSpellData['cn'][100002] = {name = "掷矛", additional_info = "200 码范围\n2秒 施法时间\n[q]掷出利矛，造成99450 to 104550点物理伤害，并燃起大片火焰。"}
+MultiLanguageSpellData['cn'][100002] = {name = "掷矛", additional_info = "200 码范围\n2秒 施法时间\n[q]掷出利矛，造成117000 to 123000点物理伤害，并燃起大片火焰。"}
 MultiLanguageSpellData['cn'][100003] = {name = "熔喉裂隙", additional_info = "45 码范围\n瞬发\n[q]用熔岩喷发对附近的敌人造成伤害。"}
 MultiLanguageSpellData['cn'][100004] = {name = "Elemental Bonds (Deepholm): Thrall Explosion", additional_info = nil}
 MultiLanguageSpellData['cn'][100005] = {name = "Spear Visual", additional_info = nil}
@@ -16220,7 +16218,7 @@ MultiLanguageSpellData['cn'][100020] = {name = "狠咬一口", additional_info =
 MultiLanguageSpellData['cn'][100021] = {name = "奥利瑟拉佐尔狂暴光环", additional_info = nil}
 MultiLanguageSpellData['cn'][100022] = {name = "奥利瑟拉佐尔狂暴光环 2", additional_info = nil}
 MultiLanguageSpellData['cn'][100023] = {name = "印随取消", additional_info = nil}
-MultiLanguageSpellData['cn'][100024] = {name = "龟裂创伤", additional_info = "近战范围\n瞬发\n[q]使目标因流血而每0.2秒受到5100点物理伤害，持续1 min。当目标生命值低于50%时该效果被移除。"}
+MultiLanguageSpellData['cn'][100024] = {name = "龟裂创伤", additional_info = "近战范围\n瞬发\n[q]使目标因流血而每0.2秒受到6000点物理伤害，持续1 min。当目标生命值低于50%时该效果被移除。"}
 MultiLanguageSpellData['cn'][100025] = {name = "Fade to Black", additional_info = nil}
 MultiLanguageSpellData['cn'][100026] = {name = "取矛", additional_info = nil}
 MultiLanguageSpellData['cn'][100027] = {name = "传送到幽暗城", additional_info = nil}
@@ -16312,7 +16310,7 @@ MultiLanguageSpellData['cn'][100166] = {name = "炽热折磨", additional_info =
 MultiLanguageSpellData['cn'][100167] = {name = "警惕", additional_info = "瞬发\n[q]踏进过一个陷阱之后，这头猎犬暂时变得特别警惕。"}
 MultiLanguageSpellData['cn'][100168] = {name = "Elemental Bonds (Deepholm): Summon Therazane Controller", additional_info = nil}
 MultiLanguageSpellData['cn'][100169] = {name = "泰蕾苟萨的精华", additional_info = "瞄准 (40秒 施法时间)"}
-MultiLanguageSpellData['cn'][100171] = {name = "烈焰世界", additional_info = "无限范围\n瞄准 (9秒 施法时间)\n[q]拉格纳罗斯开始施放噬体烈焰，每2秒使近距离、中距离和远距离的区域充满火焰，造成74587 to 78412点火焰伤害。"}
+MultiLanguageSpellData['cn'][100171] = {name = "烈焰世界", additional_info = "无限范围\n瞄准 (9秒 施法时间)\n[q]拉格纳罗斯开始施放噬体烈焰，每2秒使近距离、中距离和远距离的区域充满火焰，造成87750 to 92250点火焰伤害。"}
 MultiLanguageSpellData['cn'][100191] = {name = "苏醒之焰", additional_info = "100 码范围\n瞬发\n[q]对附近的所有敌人造成火焰伤害。"}
 MultiLanguageSpellData['cn'][100192] = {name = "烈火", additional_info = "3秒 施法时间\n[q]灼热的火焰对附近的敌人造成火焰伤害。"}
 MultiLanguageSpellData['cn'][100193] = {name = "烈火", additional_info = "2 码范围\n瞬发\n[q]对附近的敌人造成火焰伤害。"}
@@ -16460,7 +16458,7 @@ MultiLanguageSpellData['cn'][100455] = {name = "萨弗拉斯", additional_info =
 MultiLanguageSpellData['cn'][100456] = {name = "萨弗拉斯", additional_info = nil}
 MultiLanguageSpellData['cn'][100457] = {name = "惩罚行为", additional_info = "瞬发\n[q]攻击速度提高50%。\n 伤害提高50%。"}
 MultiLanguageSpellData['cn'][100459] = {name = "炽炎之热", additional_info = nil}
-MultiLanguageSpellData['cn'][100460] = {name = "炽炎之热", additional_info = "1000 码范围\n瞬发\n[q]熔岩子嗣对一个随机目标造成炽炎之热的效果，使其留下炽炎之热的尾迹。炽炎之热每1秒造成58012 to 60987点火焰伤害，并且每1秒为烈焰之子恢复10%的生命值。"}
+MultiLanguageSpellData['cn'][100460] = {name = "炽炎之热", additional_info = "1000 码范围\n瞬发\n[q]熔岩子嗣对一个随机目标造成炽炎之热的效果，使其留下炽炎之热的尾迹。炽炎之热每1秒造成68250 to 71750点火焰伤害，并且每1秒为烈焰之子恢复10%的生命值。"}
 MultiLanguageSpellData['cn'][100462] = {name = "Aggro Closest", additional_info = nil}
 MultiLanguageSpellData['cn'][100463] = {name = "黯淡赤壳焦镜", additional_info = "3秒 施法时间\n施法材料:\n赤壳碎片 (2)\n[q]将3块赤壳碎片合成一块黯淡赤壳焦镜。"}
 MultiLanguageSpellData['cn'][100464] = {name = "黯淡火岩焦镜", additional_info = "3秒 施法时间\n施法材料:\n火岩碎片 (2)\n[q]将3块火岩碎片合成一块黯淡火岩焦镜。"}
@@ -20313,3 +20311,4 @@ MultiLanguageSpellData['cn'][470574] = {name = "Protocol Inferno", additional_in
 MultiLanguageSpellData['cn'][470575] = {name = "Protocol Inferno", additional_info = nil}
 MultiLanguageSpellData['cn'][470595] = {name = "Fury of the Firelord", additional_info = nil}
 MultiLanguageSpellData['cn'][470597] = {name = "Protocol Inferno", additional_info = "无限范围\n瞬发 1分钟 冷却"}
+MultiLanguageSpellData['cn'][473053] = {name = "Gushing Wound", additional_info = "近战范围\n瞬发\n[q]Causes the target to bleed for 6000 Physical damage every 0.2 sec. for 1 min. This effect is removed if the target falls below 50% health."}
