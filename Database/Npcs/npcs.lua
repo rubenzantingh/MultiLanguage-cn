@@ -20163,7 +20163,6 @@ MultiLanguageNpcData['cn'][30413] = {name = "Channel Image Target", subname = ni
 MultiLanguageNpcData['cn'][30414] = {name = "被遗忘的无面者", subname = nil}
 MultiLanguageNpcData['cn'][30416] = {name = "被束缚的火元素", subname = nil}
 MultiLanguageNpcData['cn'][30418] = {name = "被束缚的气元素", subname = nil}
-MultiLanguageNpcData['cn'][30419] = {name = "被束缚的水元素", subname = nil}
 MultiLanguageNpcData['cn'][30420] = {name = "维拉努斯", subname = nil}
 MultiLanguageNpcData['cn'][30423] = {name = "灵体冰虫", subname = nil}
 MultiLanguageNpcData['cn'][30430] = {name = "戒卫座狼", subname = nil}
@@ -22500,3 +22499,4 @@ MultiLanguageNpcData['cn'][211340] = {name = "克拉莱·碎梦", subname = "亵
 MultiLanguageNpcData['cn'][213605] = {name = "阿尔福斯", subname = nil}
 MultiLanguageNpcData['cn'][222858] = {name = "Pinchy the Plunderer", subname = nil}
 MultiLanguageNpcData['cn'][224065] = {name = "小飙", subname = nil}
+MultiLanguageNpcData['cn'][232527] = {name = "勒文", subname = nil}
