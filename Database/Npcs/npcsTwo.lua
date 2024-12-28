@@ -23286,7 +23286,6 @@ MultiLanguageNpcData['cn'][92312] = {name = "德克加尔风裔骑士", subname 
 MultiLanguageNpcData['cn'][92313] = {name = "纯洁的凯瑟琳", subname = "圣骑士训练师"}
 MultiLanguageNpcData['cn'][92314] = {name = "布兰度尔·铁锤", subname = "圣骑士训练师"}
 MultiLanguageNpcData['cn'][92315] = {name = "Grappling Hook Bunny", subname = nil}
-MultiLanguageNpcData['cn'][92316] = {name = "守备官巴顿", subname = "圣骑士训练师"}
 MultiLanguageNpcData['cn'][92317] = {name = "阿里乌克", subname = nil}
 MultiLanguageNpcData['cn'][92318] = {name = "阿里乌克", subname = nil}
 MultiLanguageNpcData['cn'][92321] = {name = "成熟的亡灵花", subname = nil}
