@@ -20328,3 +20328,15 @@ MultiLanguageSpellData['cn'][1215484] = {name = "爆炸射击", additional_info 
 MultiLanguageSpellData['cn'][1215485] = {name = "爆炸射击", additional_info = "100 码范围\n瞬发\n需要 远程武器\n[q]你对敌方目标发射爆炸性的弹药，造成(Ranged attack power * 0.273 + 449 )点火焰伤害。这发弹药还会每秒对目标造成额外伤害，持续2 sec。"}
 MultiLanguageSpellData['cn'][1215486] = {name = "爆炸射击", additional_info = "100 码范围\n瞬发\n需要 远程武器\n[q]你对敌方目标发射爆炸性的弹药，造成(Ranged attack power * 0.273 + 449 )点火焰伤害。这发弹药还会每秒对目标造成额外伤害，持续2 sec。"}
 MultiLanguageSpellData['cn'][1215492] = {name = "极热", additional_info = "无限范围\n瞬发\n[q]拉格纳罗斯的能量达到极限，进入极热状态！每5秒造成6000点火焰伤害，受到极热的伤害提高10%，可叠加。"}
+MultiLanguageSpellData['cn'][1216290] = {name = "[q3]嗜血统御眼珠", additional_info = "3秒 施法时间 2\n工具:\n学者的书写工具\n施法材料:\n炼狱墨水 (5), 动燃之水 (12), 防腐食人魔之眼\n[q3]嗜血统御眼珠\n装备后绑定\n圣物\n+159 耐力\n+106 智力\n\n[q0]棱彩插槽\n\n85"}
+MultiLanguageSpellData['cn'][1216316] = {name = "[q3]嗜血凯旋护符", additional_info = "3秒 施法时间 2\n工具:\n学者的书写工具\n施法材料:\n炼狱墨水 (5), 动燃生命 (6), 动燃之水 (6), 饰银腕镯\n[q3]嗜血凯旋护符\n装备后绑定\n圣物\n+106 敏捷\n+159 耐力\n\n[q0]棱彩插槽\n\n85"}
+MultiLanguageSpellData['cn'][1216317] = {name = "[q3]嗜血征服颚骨", additional_info = "3秒 施法时间 2\n工具:\n学者的书写工具\n施法材料:\n炼狱墨水 (5), 动燃生命 (12), 脱色的腭骨\n[q3]嗜血征服颚骨\n装备后绑定\n圣物\n+106 力量\n+159 耐力\n\n[q0]棱彩插槽\n\n85"}
+MultiLanguageSpellData['cn'][1216321] = {name = "[q3]嗜血琥珀坠饰", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 琥珀晶石 (5), 动燃之水 (8), 动燃生命 (4)\n[q3]嗜血琥珀坠饰\n装备后绑定\n颈部\n+282 耐力\n+188 智力\n85"}
+MultiLanguageSpellData['cn'][1216323] = {name = "[q3]嗜血蓝宝石之戒", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 海洋青玉 (4), 动燃空气 (8)\n[q3]嗜血蓝宝石之戒\n装备后绑定\n手指\n+188 敏捷\n+282 耐力\n85"}
+MultiLanguageSpellData['cn'][1216328] = {name = "[q3]嗜血琥珀指环", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 琥珀晶石 (4), 动燃之水 (8)\n[q3]嗜血琥珀指环\n装备后绑定\n手指\n+282 耐力\n+188 智力\n+126精神\n85"}
+MultiLanguageSpellData['cn'][1216329] = {name = "[q3]嗜血红宝石徽记", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 地狱炎石 (4), 动燃之土 (8)\n[q3]嗜血红宝石徽记\n装备后绑定\n手指\n+188 力量\n+282 耐力\n85"}
+MultiLanguageSpellData['cn'][1216330] = {name = "[q3]嗜血蓝宝石挂坠", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 海洋青玉 (5), 动燃空气 (8), 动燃火焰 (4)\n[q3]嗜血蓝宝石挂坠\n装备后绑定\n颈部\n+188 敏捷\n+282 耐力\n85"}
+MultiLanguageSpellData['cn'][1216331] = {name = "[q3]嗜血红宝石项圈", additional_info = "12.5秒 施法时间\n施法材料:\n珠宝师的底座 , 地狱炎石 (5), 动燃之土 (8), 动燃之水 (6)\n[q3]嗜血红宝石项圈\n装备后绑定\n颈部\n+188 力量\n+282 耐力\n85"}
+MultiLanguageSpellData['cn'][1216335] = {name = "[q3]嗜血毛皮披风", additional_info = "2秒 施法时间 3\n施法材料:\n原始皮革 , 动燃之土 (4)\n[q3]嗜血毛皮披风\n装备后绑定\n背部\n622护甲\n+188 敏捷\n+282 耐力\n85"}
+MultiLanguageSpellData['cn'][1216336] = {name = "[q3]嗜血兽皮披风", additional_info = "2秒 施法时间 3\n施法材料:\n原始皮革 , 动燃火焰 (4)\n[q3]嗜血兽皮披风\n装备后绑定\n背部\n622护甲\n+188 力量\n+282 耐力\n[q2]+ 126精通\n85"}
+MultiLanguageSpellData['cn'][1216338] = {name = "[q3]嗜血烬丝斗篷", additional_info = "2秒 施法时间 2\n施法材料:\n烬丝布卷 (10), 动燃之水 (6), 动燃火焰 (6)\n[q3]嗜血烬丝斗篷\n装备后绑定\n背部\n622护甲\n+282 耐力\n+188 智力\n[q2]+ 126精通\n85\n\n[q]嗜血烬丝套装 (0/9)\n[q0]嗜血烬丝腰带\n嗜血烬丝长靴\n嗜血烬丝护腕\n嗜血烬丝斗篷\n嗜血烬丝兜帽\n嗜血烬丝手套\n嗜血烬丝护腿\n嗜血烬丝长袍\n嗜血烬丝肩垫"}

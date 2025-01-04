@@ -10158,7 +10158,7 @@ MultiLanguageItemData['cn'][75006] = {name = "[q0]Monster - Sword, 1H DeathwingR
 MultiLanguageItemData['cn'][75007] = {name = "[q0]Monster - Sword, 1H DeathwingRaidDW D 01 - Purple", additional_info = "{单手} {剑}\n{1 - 3伤害} {速度 2.80}\n（每秒伤害0.71）\n耐久: 20 / 20\n售价:"}
 MultiLanguageItemData['cn'][75009] = {name = "[q0]Monster - Sword, 1H DeathwingRaidDW D 01 - Teal", additional_info = "{单手} {剑}\n{1 - 3伤害} {速度 2.80}\n（每秒伤害0.71）\n耐久: 20 / 20\n售价:"}
 MultiLanguageItemData['cn'][75010] = {name = "[q0]Monster - Sword, 1H DeathwingRaidDW D 01 - Yellow", additional_info = "{单手} {剑}\n{1 - 3伤害} {速度 2.80}\n（每秒伤害0.71）\n耐久: 20 / 20\n售价:"}
-MultiLanguageItemData['cn'][75011] = {name = "[q0]Monster - Asira Throwing Knife", additional_info = "{投掷} {投掷}\n{1 - 2 冰霜伤害} {速度 2.00}\n（每秒伤害0.75）\n售价:"}
+MultiLanguageItemData['cn'][75011] = {name = "[q0]Monster - Asira Throwing Knife", additional_info = "{投掷} {投掷}\n{1 - 2伤害} {速度 2.00}\n（每秒伤害0.75）\n售价:"}
 MultiLanguageItemData['cn'][75027] = {name = "泰达希尔里脊肉", additional_info = "拾取后绑定\n唯一（20）\n[q2]使用: 每秒恢复总生命值的2%，持续25 sec。进食时必须保持坐姿。\n[q]\"这当然是美味的鹿肉了！还能是什么？\""}
 MultiLanguageItemData['cn'][75028] = {name = "暴风惊爽酒", additional_info = "拾取后绑定\n唯一（20）\n[q2]使用: 每秒恢复总法力值的2%，持续30 sec。进食时必须保持坐姿。\n[q]\"嘿嘿嘿嘿！咳咳……哼。嘿嘿！\""}
 MultiLanguageItemData['cn'][75029] = {name = "啤酒烤小排", additional_info = "拾取后绑定\n唯一（20）\n[q2]使用: 每秒恢复总生命值的2%，持续25 sec。进食时必须保持坐姿。\n[q]\"面包烤……？我说的是“啤酒烤”，嘿嘿。\""}
