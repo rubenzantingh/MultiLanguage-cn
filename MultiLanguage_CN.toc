@@ -2,7 +2,7 @@
 ## Title: MultiLanguage_CN
 ## Notes: CN language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.0.5
+## Version: 1.0.6
 ## Dependencies: MultiLanguage
 
 Database/Quests/quests.lua
