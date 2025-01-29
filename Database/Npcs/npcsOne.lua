@@ -10362,7 +10362,7 @@ MultiLanguageNpcData['cn'][16620] = {name = "玛萨雷伦", subname = nil}
 MultiLanguageNpcData['cn'][16621] = {name = "伊蕾达", subname = nil}
 MultiLanguageNpcData['cn'][16622] = {name = "伊瑟尼", subname = nil}
 MultiLanguageNpcData['cn'][16623] = {name = "夏德雷尔", subname = "布甲商"}
-MultiLanguageNpcData['cn'][16624] = {name = "基兰希斯", subname = nil}
+MultiLanguageNpcData['cn'][16624] = {name = "基兰希斯", subname = "珠宝加工供应商"}
 MultiLanguageNpcData['cn'][16625] = {name = "基里", subname = nil}
 MultiLanguageNpcData['cn'][16626] = {name = "泰恩娜", subname = "板甲商人"}
 MultiLanguageNpcData['cn'][16627] = {name = "拍卖师伊西利安", subname = nil}
