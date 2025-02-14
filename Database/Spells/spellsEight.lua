@@ -2236,3 +2236,7 @@ MultiLanguageSpellData['cn'][1218981] = {name = "盾牌冲锋", additional_info 
 MultiLanguageSpellData['cn'][1220498] = {name = "故障传送", additional_info = "5秒 施法时间\n[q]将你精确的传送到你想去的地方……请不要过分在意具体细节。"}
 MultiLanguageSpellData['cn'][1221338] = {name = "丢球", additional_info = "40 码范围\n瞬发 5秒 冷却\n[q]将球丢给一个友方玩家。如果可能的话，他们会自动将球再丢回来。"}
 MultiLanguageSpellData['cn'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['cn'][1223890] = {name = "狂热光环", additional_info = nil}
+MultiLanguageSpellData['cn'][1223891] = {name = "狂热光环", additional_info = nil}
+MultiLanguageSpellData['cn'][1223893] = {name = "狂热光环", additional_info = nil}
+MultiLanguageSpellData['cn'][1223894] = {name = "狂热光环", additional_info = nil}

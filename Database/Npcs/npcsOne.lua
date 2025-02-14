@@ -1673,16 +1673,16 @@ MultiLanguageNpcData['cn'][2122] = {name = "大卫·提亚斯", subname = nil}
 MultiLanguageNpcData['cn'][2123] = {name = "黑暗牧师杜斯滕", subname = nil}
 MultiLanguageNpcData['cn'][2124] = {name = "伊莎贝拉", subname = nil}
 MultiLanguageNpcData['cn'][2126] = {name = "马克希米林", subname = nil}
-MultiLanguageNpcData['cn'][2127] = {name = "鲁伯特·鲍什", subname = nil}
+MultiLanguageNpcData['cn'][2127] = {name = "鲁伯特·鲍什", subname = "术士训练师"}
 MultiLanguageNpcData['cn'][2128] = {name = "凯恩·火歌", subname = "法师训练师"}
 MultiLanguageNpcData['cn'][2129] = {name = "黑暗牧师贝里尔", subname = "牧师训练师"}
 MultiLanguageNpcData['cn'][2130] = {name = "马里恩·考尔", subname = "潜行者训练师"}
-MultiLanguageNpcData['cn'][2131] = {name = "奥斯蒂尔·德·蒙", subname = nil}
+MultiLanguageNpcData['cn'][2131] = {name = "奥斯蒂尔·德·蒙", subname = "战士训练师"}
 MultiLanguageNpcData['cn'][2132] = {name = "卡罗莱·安尼斯", subname = nil}
-MultiLanguageNpcData['cn'][2134] = {name = "温特斯夫人", subname = nil}
+MultiLanguageNpcData['cn'][2134] = {name = "温特斯夫人", subname = "杂货供应商"}
 MultiLanguageNpcData['cn'][2135] = {name = "亚伯·温特斯", subname = "见习造甲师"}
 MultiLanguageNpcData['cn'][2136] = {name = "奥利弗·德沃尔", subname = "见习武器匠"}
-MultiLanguageNpcData['cn'][2137] = {name = "伊莉莎·考伦", subname = nil}
+MultiLanguageNpcData['cn'][2137] = {name = "伊莉莎·考伦", subname = "皮甲商"}
 MultiLanguageNpcData['cn'][2138] = {name = "Warrior 25", subname = nil}
 MultiLanguageNpcData['cn'][2140] = {name = "艾德温·哈里", subname = "杂货供应商"}
 MultiLanguageNpcData['cn'][2142] = {name = "守夜人考拉哈恩", subname = "守夜人"}
@@ -3638,7 +3638,7 @@ MultiLanguageNpcData['cn'][4309] = {name = "高尔姆·恐怖图腾", subname = 
 MultiLanguageNpcData['cn'][4310] = {name = "考尔·恐怖图腾", subname = nil}
 MultiLanguageNpcData['cn'][4311] = {name = "霍加尔·雷斧", subname = nil}
 MultiLanguageNpcData['cn'][4312] = {name = "萨尔姆", subname = "双足飞龙管理员"}
-MultiLanguageNpcData['cn'][4314] = {name = "格卡斯", subname = nil}
+MultiLanguageNpcData['cn'][4314] = {name = "格卡斯", subname = "双足飞龙管理员"}
 MultiLanguageNpcData['cn'][4315] = {name = "加斯林·暗蹄", subname = nil}
 MultiLanguageNpcData['cn'][4316] = {name = "科卡尔猎犬", subname = nil}
 MultiLanguageNpcData['cn'][4317] = {name = "奈瑟", subname = nil}
@@ -4324,7 +4324,7 @@ MultiLanguageNpcData['cn'][5175] = {name = "考格斯宾", subname = "工程学�
 MultiLanguageNpcData['cn'][5177] = {name = "塔雷·浆泡", subname = "炼金术训练师"}
 MultiLanguageNpcData['cn'][5178] = {name = "苏雷·浆泡", subname = "炼金术供应商"}
 MultiLanguageNpcData['cn'][5184] = {name = "塞拉摩哨兵", subname = nil}
-MultiLanguageNpcData['cn'][5185] = {name = "槌头鲨", subname = nil}
+MultiLanguageNpcData['cn'][5185] = {name = "锤头鲨", subname = nil}
 MultiLanguageNpcData['cn'][5186] = {name = "鲨鱼", subname = nil}
 MultiLanguageNpcData['cn'][5187] = {name = "南海火炮", subname = nil}
 MultiLanguageNpcData['cn'][5188] = {name = "伽雷尔", subname = "战袍商人"}
@@ -4744,7 +4744,7 @@ MultiLanguageNpcData['cn'][5746] = {name = "阿波罗尼亚·金博", subname = 
 MultiLanguageNpcData['cn'][5747] = {name = "海普斯巴恩·塞迪维克", subname = nil}
 MultiLanguageNpcData['cn'][5748] = {name = "基利恩·萨纳森", subname = "渔夫"}
 MultiLanguageNpcData['cn'][5749] = {name = "凯拉·斯密瑟", subname = nil}
-MultiLanguageNpcData['cn'][5750] = {name = "吉娜·朗恩", subname = nil}
+MultiLanguageNpcData['cn'][5750] = {name = "吉娜·朗恩", subname = "恶魔训练师"}
 MultiLanguageNpcData['cn'][5752] = {name = "麦尔金斯下士", subname = nil}
 MultiLanguageNpcData['cn'][5753] = {name = "马尔萨·斯坦恩", subname = "恶魔训练师"}
 MultiLanguageNpcData['cn'][5754] = {name = "赞恩·布拉德弗", subname = "魔杖商人"}
@@ -7511,7 +7511,7 @@ MultiLanguageNpcData['cn'][11611] = {name = "骑士杜尔根", subname = nil}
 MultiLanguageNpcData['cn'][11613] = {name = "猎人莱德雷", subname = nil}
 MultiLanguageNpcData['cn'][11614] = {name = "血箭", subname = nil}
 MultiLanguageNpcData['cn'][11615] = {name = "米克·莱文", subname = nil}
-MultiLanguageNpcData['cn'][11616] = {name = "纳萨尼尔·杜马", subname = nil}
+MultiLanguageNpcData['cn'][11616] = {name = "纳萨尼尔·杜马", subname = "银白十字军"}
 MultiLanguageNpcData['cn'][11617] = {name = "维里图斯", subname = nil}
 MultiLanguageNpcData['cn'][11618] = {name = "大法师安东尼奥", subname = nil}
 MultiLanguageNpcData['cn'][11619] = {name = "商人波尔登", subname = nil}
@@ -7564,7 +7564,7 @@ MultiLanguageNpcData['cn'][11697] = {name = "玛诺洛克鞭笞者", subname = n
 MultiLanguageNpcData['cn'][11698] = {name = "亚什毒蝎", subname = nil}
 MultiLanguageNpcData['cn'][11699] = {name = "瓦里安·乌瑞恩", subname = "暴风城的国王"}
 MultiLanguageNpcData['cn'][11700] = {name = "萨林·星光", subname = nil}
-MultiLanguageNpcData['cn'][11701] = {name = "莫维克", subname = nil}
+MultiLanguageNpcData['cn'][11701] = {name = "莫维克", subname = "暴掠龙训练师"}
 MultiLanguageNpcData['cn'][11702] = {name = "阿林索", subname = nil}
 MultiLanguageNpcData['cn'][11703] = {name = "格劳恩·角石", subname = nil}
 MultiLanguageNpcData['cn'][11704] = {name = "克里斯·金光", subname = nil}
@@ -10427,7 +10427,7 @@ MultiLanguageNpcData['cn'][16685] = {name = "艾尔兰拉", subname = "潜行者
 MultiLanguageNpcData['cn'][16686] = {name = "奈里森", subname = "潜行者训练师"}
 MultiLanguageNpcData['cn'][16687] = {name = "塔尔玛", subname = nil}
 MultiLanguageNpcData['cn'][16688] = {name = "莱纳里斯", subname = nil}
-MultiLanguageNpcData['cn'][16689] = {name = "萨拉尔达", subname = nil}
+MultiLanguageNpcData['cn'][16689] = {name = "萨拉尔达", subname = "制皮供应商"}
 MultiLanguageNpcData['cn'][16690] = {name = "拉提恩", subname = "背包商人"}
 MultiLanguageNpcData['cn'][16691] = {name = "诺莱拉斯", subname = nil}
 MultiLanguageNpcData['cn'][16692] = {name = "提恩", subname = nil}
@@ -10523,7 +10523,7 @@ MultiLanguageNpcData['cn'][16782] = {name = "亚瑟恩", subname = "工程学供
 MultiLanguageNpcData['cn'][16783] = {name = "天灾软泥（蓝）", subname = nil}
 MultiLanguageNpcData['cn'][16784] = {name = "天灾软泥（红）", subname = nil}
 MultiLanguageNpcData['cn'][16785] = {name = "天灾软泥（绿）", subname = nil}
-MultiLanguageNpcData['cn'][16786] = {name = "银色军需官", subname = nil}
+MultiLanguageNpcData['cn'][16786] = {name = "银色军需官", subname = "银色黎明"}
 MultiLanguageNpcData['cn'][16787] = {name = "银色物资官", subname = nil}
 MultiLanguageNpcData['cn'][16788] = {name = "节日护火者", subname = nil}
 MultiLanguageNpcData['cn'][16789] = {name = "游侠队长维恩雷", subname = nil}
@@ -11154,7 +11154,7 @@ MultiLanguageNpcData['cn'][17438] = {name = "发狂野枭兽的尸体", subname 
 MultiLanguageNpcData['cn'][17439] = {name = "止松猎手", subname = nil}
 MultiLanguageNpcData['cn'][17440] = {name = "止松老酋长", subname = nil}
 MultiLanguageNpcData['cn'][17441] = {name = "古尔弗", subname = nil}
-MultiLanguageNpcData['cn'][17442] = {name = "莫多", subname = nil}
+MultiLanguageNpcData['cn'][17442] = {name = "莫多", subname = "制皮训练师"}
 MultiLanguageNpcData['cn'][17443] = {name = "启示者库尔兹", subname = nil}
 MultiLanguageNpcData['cn'][17444] = {name = "盲眼看守者玛格托", subname = nil}
 MultiLanguageNpcData['cn'][17445] = {name = "止松酋长", subname = nil}
@@ -11226,8 +11226,8 @@ MultiLanguageNpcData['cn'][17514] = {name = "巴蒂", subname = "法师训练师
 MultiLanguageNpcData['cn'][17516] = {name = "玛瑟里顿的房间", subname = nil}
 MultiLanguageNpcData['cn'][17517] = {name = "地狱火斥候", subname = "传令官的斥候"}
 MultiLanguageNpcData['cn'][17518] = {name = "伊萨尔", subname = nil}
-MultiLanguageNpcData['cn'][17519] = {name = "霍巴肯", subname = nil}
-MultiLanguageNpcData['cn'][17520] = {name = "古尔拉格", subname = nil}
+MultiLanguageNpcData['cn'][17519] = {name = "霍巴肯", subname = "萨满祭司训练师"}
+MultiLanguageNpcData['cn'][17520] = {name = "古尔拉格", subname = "萨满祭司训练师"}
 MultiLanguageNpcData['cn'][17521] = {name = "大灰狼", subname = nil}
 MultiLanguageNpcData['cn'][17522] = {name = "秘网编织者", subname = nil}
 MultiLanguageNpcData['cn'][17523] = {name = "秘网吸血者", subname = nil}
@@ -27890,7 +27890,7 @@ MultiLanguageNpcData['cn'][38336] = {name = "斯内维尔·拉斯罗凯特", sub
 MultiLanguageNpcData['cn'][38337] = {name = "斯内维尔·拉斯罗凯特", subname = "风险投资公司"}
 MultiLanguageNpcData['cn'][38338] = {name = "斯内维尔·拉斯罗凯特", subname = "风险投资公司"}
 MultiLanguageNpcData['cn'][38339] = {name = "斯内维尔·拉斯罗凯特", subname = "风险投资公司"}
-MultiLanguageNpcData['cn'][38343] = {name = "北郡骑士麦斯米兰", subname = nil}
+MultiLanguageNpcData['cn'][38343] = {name = "北郡骑士麦斯米兰", subname = "豪侠骑士"}
 MultiLanguageNpcData['cn'][38344] = {name = "Plague Cloud Bunny", subname = nil}
 MultiLanguageNpcData['cn'][38345] = {name = "被俘的勇士", subname = nil}
 MultiLanguageNpcData['cn'][38346] = {name = "魔暴龙女王", subname = nil}
@@ -32505,7 +32505,7 @@ MultiLanguageNpcData['cn'][44043] = {name = "基尼尔", subname = nil}
 MultiLanguageNpcData['cn'][44044] = {name = "奥格瑞玛精英", subname = nil}
 MultiLanguageNpcData['cn'][44045] = {name = "黑暗的造物", subname = nil}
 MultiLanguageNpcData['cn'][44046] = {name = "大地之环萨满", subname = nil}
-MultiLanguageNpcData['cn'][44047] = {name = "奥德里德·格伦里克", subname = nil}
+MultiLanguageNpcData['cn'][44047] = {name = "奥德里德·格伦里克", subname = "毒药与材料"}
 MultiLanguageNpcData['cn'][44048] = {name = "狗头人掠夺者", subname = nil}
 MultiLanguageNpcData['cn'][44049] = {name = "巨蘑菇", subname = nil}
 MultiLanguageNpcData['cn'][44050] = {name = "Dragonmaw Portal to Orgrimmar", subname = nil}
@@ -33824,7 +33824,7 @@ MultiLanguageNpcData['cn'][45491] = {name = "药剂师哈灵顿", subname = nil}
 MultiLanguageNpcData['cn'][45492] = {name = "Tower Range Finder", subname = nil}
 MultiLanguageNpcData['cn'][45494] = {name = "指挥官罗娜·克罗雷", subname = nil}
 MultiLanguageNpcData['cn'][45495] = {name = "Worgen Combatant Proxy", subname = nil}
-MultiLanguageNpcData['cn'][45496] = {name = "指挥官辛克雷", subname = nil}
+MultiLanguageNpcData['cn'][45496] = {name = "指挥官辛克雷", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][45497] = {name = "“老水兵”格尔加", subname = "杂货商"}
 MultiLanguageNpcData['cn'][45498] = {name = "“老水兵”洛克卡", subname = "兽栏管理员"}
 MultiLanguageNpcData['cn'][45499] = {name = "吉尔尼斯军犬", subname = nil}
@@ -35249,7 +35249,7 @@ MultiLanguageNpcData['cn'][47101] = {name = "坦扎尔", subname = nil}
 MultiLanguageNpcData['cn'][47102] = {name = "机尾炮", subname = nil}
 MultiLanguageNpcData['cn'][47103] = {name = "胆怯的死亡之翼", subname = nil}
 MultiLanguageNpcData['cn'][47104] = {name = "安东尼·瓦内尔", subname = nil}
-MultiLanguageNpcData['cn'][47105] = {name = "马克·达顿", subname = nil}
+MultiLanguageNpcData['cn'][47105] = {name = "马克·达顿", subname = "杂货商"}
 MultiLanguageNpcData['cn'][47106] = {name = "克莉丝汀·加德", subname = "铸盾匠"}
 MultiLanguageNpcData['cn'][47107] = {name = "塔蕾", subname = nil}
 MultiLanguageNpcData['cn'][47108] = {name = "旅店老板内留斯", subname = nil}
@@ -35648,9 +35648,9 @@ MultiLanguageNpcData['cn'][47525] = {name = "吉奥弗雷领主的仆从", subna
 MultiLanguageNpcData['cn'][47526] = {name = "Drake Ride Camera Bunny 2", subname = nil}
 MultiLanguageNpcData['cn'][47527] = {name = "被捕获的驭风者", subname = nil}
 MultiLanguageNpcData['cn'][47528] = {name = "风巢王牌飞行员", subname = nil}
-MultiLanguageNpcData['cn'][47530] = {name = "奇兹特·爆裂", subname = nil}
+MultiLanguageNpcData['cn'][47530] = {name = "奇兹特·爆裂", subname = "工程学供应商"}
 MultiLanguageNpcData['cn'][47531] = {name = "被囚禁的鬼灵", subname = nil}
-MultiLanguageNpcData['cn'][47532] = {name = "达尔波·稳定助熔剂", subname = nil}
+MultiLanguageNpcData['cn'][47532] = {name = "达尔波·稳定助熔剂", subname = "锻造供应商"}
 MultiLanguageNpcData['cn'][47533] = {name = "黑铁铁匠挖掘专家", subname = nil}
 MultiLanguageNpcData['cn'][47534] = {name = "牢房软泥怪", subname = nil}
 MultiLanguageNpcData['cn'][47535] = {name = "黑铁铁匠", subname = nil}
@@ -35661,9 +35661,9 @@ MultiLanguageNpcData['cn'][47540] = {name = "破坏魔毁灭者", subname = nil}
 MultiLanguageNpcData['cn'][47541] = {name = "Remember the Light Proxy Credit", subname = nil}
 MultiLanguageNpcData['cn'][47542] = {name = "牢房看守", subname = nil}
 MultiLanguageNpcData['cn'][47544] = {name = "斯瓦诺斯", subname = nil}
-MultiLanguageNpcData['cn'][47545] = {name = "布莉塔·荆棘丛", subname = nil}
+MultiLanguageNpcData['cn'][47545] = {name = "布莉塔·荆棘丛", subname = "炼金术供应商"}
 MultiLanguageNpcData['cn'][47546] = {name = "破碎的守卫者", subname = nil}
-MultiLanguageNpcData['cn'][47547] = {name = "西德·诱铜", subname = nil}
+MultiLanguageNpcData['cn'][47547] = {name = "西德·诱铜", subname = "餐饮供应商"}
 MultiLanguageNpcData['cn'][47548] = {name = "被关押的愤怒卫士", subname = nil}
 MultiLanguageNpcData['cn'][47549] = {name = "被囚禁的小鬼", subname = nil}
 MultiLanguageNpcData['cn'][47550] = {name = "被囚禁的工人", subname = nil}
@@ -35871,7 +35871,7 @@ MultiLanguageNpcData['cn'][47757] = {name = "乔治·拉斐尔", subname = "杂�
 MultiLanguageNpcData['cn'][47758] = {name = "古尔特", subname = "武器锻造师"}
 MultiLanguageNpcData['cn'][47759] = {name = "泥鳃", subname = nil}
 MultiLanguageNpcData['cn'][47760] = {name = "尼斐塞特诅咒使者", subname = nil}
-MultiLanguageNpcData['cn'][47761] = {name = "汉克·福特", subname = nil}
+MultiLanguageNpcData['cn'][47761] = {name = "汉克·福特", subname = "兽栏管理员"}
 MultiLanguageNpcData['cn'][47762] = {name = "尼斐塞特仪祭师", subname = nil}
 MultiLanguageNpcData['cn'][47763] = {name = "束缚怒火", subname = nil}
 MultiLanguageNpcData['cn'][47764] = {name = "姆罗格", subname = "兽栏管理员"}
