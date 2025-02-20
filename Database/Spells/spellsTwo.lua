@@ -758,7 +758,7 @@ MultiLanguageSpellData['cn'][78269] = {name = "Quest Credit: That's Why They Cal
 MultiLanguageSpellData['cn'][78270] = {name = "召唤克瓦迪尔清算者", additional_info = nil}
 MultiLanguageSpellData['cn'][78271] = {name = "Phase Shift 1 Kelp Forest and Holding Pens", additional_info = nil}
 MultiLanguageSpellData['cn'][78272] = {name = "咆哮烈焰", additional_info = nil}
-MultiLanguageSpellData['cn'][78273] = {name = "火舌武器", additional_info = "6% 法力值 值\n瞬发\n需要 近战武器\n[q]给萨满祭司的武器附加火焰的力量，使其法术伤害提高7点。每次击中敌人都会造成$/78275m1到1点的额外火焰伤害。"}
+MultiLanguageSpellData['cn'][78273] = {name = "火舌武器", additional_info = "6% 法力值 值\n瞬发\n需要 近战武器\n[q]给萨满祭司的武器附加火焰的力量，使其法术伤害提高7点。每次击中敌人都会造成/78275m1到1点的额外火焰伤害。"}
 MultiLanguageSpellData['cn'][78274] = {name = "Cyclone Visual", additional_info = nil}
 MultiLanguageSpellData['cn'][78275] = {name = "Creature - Flametongue Weapon Proc", additional_info = nil}
 MultiLanguageSpellData['cn'][78276] = {name = "小狗潜水头盔", additional_info = nil}
@@ -19673,7 +19673,7 @@ MultiLanguageSpellData['cn'][126583] = {name = "物品 - 触发力量", addition
 MultiLanguageSpellData['cn'][126659] = {name = "迅疾如风", additional_info = "瞬发\n[q]急速提高963，持续20 sec。"}
 MultiLanguageSpellData['cn'][126660] = {name = "物品 - 法术命中触发急速", additional_info = "[q]每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）\n（特效触发几率：15%，1.917分钟 冷却）"}
 MultiLanguageSpellData['cn'][133630] = {name = "信手拈来", additional_info = "40 码范围\n瞬发"}
-MultiLanguageSpellData['cn'][133631] = {name = "物品 - 攻击触发精通", additional_info = "[q]当你的攻击命中时，你有一定几率获得0精通，持续until cancelled。\n（特效触发几率：15%，1.083分钟 冷却）"}
+MultiLanguageSpellData['cn'][133631] = {name = "物品 - 攻击触发精通", additional_info = "[q]当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。\n（特效触发几率：15%，1.083分钟 冷却）"}
 MultiLanguageSpellData['cn'][158263] = {name = "怯懦", additional_info = nil}
 MultiLanguageSpellData['cn'][160597] = {name = "制造传家宝", additional_info = nil}
 MultiLanguageSpellData['cn'][171555] = {name = "团队标记 6", additional_info = "瞬发"}
@@ -20492,27 +20492,27 @@ MultiLanguageSpellData['cn'][1224268] = {name = "[q3]染血的鳞片护胸", add
 MultiLanguageSpellData['cn'][1224269] = {name = "[q3]染血的鳞片罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
 MultiLanguageSpellData['cn'][1224270] = {name = "[q3]染血的龙鳞护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
 MultiLanguageSpellData['cn'][1224271] = {name = "[q3]染血的龙鳞护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "瞬发\n[q]Dragon Soul is disabled on the PTR at this time."}
-MultiLanguageSpellData['cn'][1224920] = {name = "Protocol Twilight", additional_info = "无限范围\n瞬发 1分钟 冷却"}
-MultiLanguageSpellData['cn'][1224921] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['cn'][1224922] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['cn'][1224923] = {name = "Twilight's Madness", additional_info = "瞬发\n（特效触发几率：35%，30秒 冷却）"}
-MultiLanguageSpellData['cn'][1224924] = {name = "Summon Defender", additional_info = "瞬发\n[q]Summon a Wyrmrest Defender."}
-MultiLanguageSpellData['cn'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
-MultiLanguageSpellData['cn'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
-MultiLanguageSpellData['cn'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
-MultiLanguageSpellData['cn'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
-MultiLanguageSpellData['cn'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['cn'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
-MultiLanguageSpellData['cn'][1224931] = {name = "Verdant Surge", additional_info = nil}
-MultiLanguageSpellData['cn'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
-MultiLanguageSpellData['cn'][1224933] = {name = "Verdant Restoration", additional_info = nil}
-MultiLanguageSpellData['cn'][1224934] = {name = "舒玛的微光血", additional_info = "瞬发\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['cn'][1224545] = {name = "无法进行巨龙之魂传送", additional_info = "瞬发\n[q]现在此PTR中还无法进入巨龙之魂。"}
+MultiLanguageSpellData['cn'][1224920] = {name = "暮光协议", additional_info = "无限范围\n瞬发 1分钟 冷却"}
+MultiLanguageSpellData['cn'][1224921] = {name = "暮光协议", additional_info = nil}
+MultiLanguageSpellData['cn'][1224922] = {name = "暮光协议", additional_info = nil}
+MultiLanguageSpellData['cn'][1224923] = {name = "暮光的疯狂", additional_info = "瞬发\n（特效触发几率：35%，1.083分钟 冷却）"}
+MultiLanguageSpellData['cn'][1224924] = {name = "召唤防御者", additional_info = "瞬发\n[q]召唤一名龙眠神殿防御者。"}
+MultiLanguageSpellData['cn'][1224925] = {name = "红龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1224926] = {name = "红龙军团的赐福", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
+MultiLanguageSpellData['cn'][1224927] = {name = "青铜龙军团的赐福", additional_info = "瞬发\n（1秒 冷却）"}
+MultiLanguageSpellData['cn'][1224928] = {name = "青铜龙军团的赐福", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
+MultiLanguageSpellData['cn'][1224929] = {name = "蓝龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1224930] = {name = "蓝龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1224931] = {name = "青翠涌动", additional_info = nil}
+MultiLanguageSpellData['cn'][1224932] = {name = "绿龙军团的赐福", additional_info = "无限范围\n瞬发\n（1秒 冷却）"}
+MultiLanguageSpellData['cn'][1224933] = {name = "青翠恢复", additional_info = nil}
+MultiLanguageSpellData['cn'][1224934] = {name = "舒玛的微光血", additional_info = "瞬发\n[q]注入古神的微光血。\n 攻击速度提高25%。"}
 MultiLanguageSpellData['cn'][1224935] = {name = "法力虚空", additional_info = "30 码范围\n瞬发\n[q]对周围敌人造成0点暗影伤害。"}
 MultiLanguageSpellData['cn'][1224936] = {name = "灼热之血", additional_info = "30 码范围\n瞬发 3秒 冷却\n[q]随机灼烧一名远距离敌人的血液，目标离施法者的距离越远，伤害越高。"}
 MultiLanguageSpellData['cn'][1224937] = {name = "堕落爪牙", additional_info = nil}
 MultiLanguageSpellData['cn'][1224938] = {name = "堕落爪牙", additional_info = "200 码范围\n瞬发\n[q]向敌人投掷滚烫的熔岩，冲击他们，造成29250 to 30750点伤害，并使地面开裂。"}
-MultiLanguageSpellData['cn'][1224939] = {name = "消化酸液", additional_info = "无限范围\n瞬发\n[q]对敌方目标造成30625 to 39375点自然伤害。"}
+MultiLanguageSpellData['cn'][1224939] = {name = "消化酸液", additional_info = "无限范围\n瞬发\n[q]对敌方目标造成15312 to 19688点自然伤害。"}
 MultiLanguageSpellData['cn'][1224940] = {name = "消化酸液", additional_info = "无限范围\n瞬发\n[q]对敌方目标造成67275 to 70725点自然伤害。"}
 MultiLanguageSpellData['cn'][1224941] = {name = "消化酸液", additional_info = "瞬发"}
 MultiLanguageSpellData['cn'][1224942] = {name = "消化酸液", additional_info = nil}
@@ -20523,6 +20523,34 @@ MultiLanguageSpellData['cn'][1224946] = {name = "深度腐蚀", additional_info 
 MultiLanguageSpellData['cn'][1224947] = {name = "深度腐蚀", additional_info = nil}
 MultiLanguageSpellData['cn'][1224948] = {name = "深度腐蚀", additional_info = nil}
 MultiLanguageSpellData['cn'][1224949] = {name = "深度腐蚀", additional_info = nil}
-MultiLanguageSpellData['cn'][1224950] = {name = "深度腐蚀", additional_info = "150 码范围\n瞬发\n[q]对附近所有盟友造成89725 to 104275点伤害。"}
+MultiLanguageSpellData['cn'][1224950] = {name = "深度腐蚀", additional_info = "150 码范围\n瞬发\n[q]对附近所有盟友造成23125 to 26875点伤害。"}
 MultiLanguageSpellData['cn'][1224951] = {name = "深度腐蚀", additional_info = "100 码范围\n瞬发\n[q]叠加到5层时获得治疗或者吸收效果会触发爆炸。"}
 MultiLanguageSpellData['cn'][1224952] = {name = "深度腐蚀", additional_info = "100 码范围\n瞬发\n[q]叠加到5层时获得治疗或者吸收效果会触发爆炸。"}
+MultiLanguageSpellData['cn'][1225871] = {name = "青铜龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1225923] = {name = "蓝龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1226145] = {name = "召唤暗影血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226146] = {name = "赐予之血", additional_info = "100 码范围\n瞬发\n[q]汲取血球中贮存的古神之力。"}
+MultiLanguageSpellData['cn'][1226147] = {name = "召唤赤红血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226148] = {name = "召唤漆黑血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226149] = {name = "召唤酸液血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226150] = {name = "召唤冰蓝血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226151] = {name = "召唤微光血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226265] = {name = "召唤血球", additional_info = nil}
+MultiLanguageSpellData['cn'][1226387] = {name = "舒玛的赤红血", additional_info = "瞬发\n[q]获得技能：灼热之血。"}
+MultiLanguageSpellData['cn'][1226408] = {name = "舒玛的暗影血", additional_info = "瞬发\n[q]获得技能：深度腐蚀。"}
+MultiLanguageSpellData['cn'][1226416] = {name = "舒玛的冰蓝血", additional_info = "瞬发\n[q]获得技能：法力虚空。"}
+MultiLanguageSpellData['cn'][1226422] = {name = "舒玛的酸液血", additional_info = "瞬发\n[q]获得技能：消化酸液。"}
+MultiLanguageSpellData['cn'][1226453] = {name = "舒玛的漆黑血", additional_info = "瞬发\n[q]获得技能：堕落爪牙。"}
+MultiLanguageSpellData['cn'][1226484] = {name = "召唤联盟龙眠神殿防御者", additional_info = nil}
+MultiLanguageSpellData['cn'][1226485] = {name = "召唤部落龙眠神殿防御者", additional_info = nil}
+MultiLanguageSpellData['cn'][1226486] = {name = "灵魂切割", additional_info = "20 码范围0.6 秒 施法时间 5秒 冷却\n[q]对一名敌人引导一股灵能波浪，造成55770 to 58630点暗影伤害。"}
+MultiLanguageSpellData['cn'][1227043] = {name = "怒风之威", additional_info = "瞬发\n[q]造成的伤害降低。\n 最大生命值降低。"}
+MultiLanguageSpellData['cn'][1227044] = {name = "怒风之威", additional_info = nil}
+MultiLanguageSpellData['cn'][1227317] = {name = "Signet of the Wyrmrest Accord - Remove Item", additional_info = nil}
+MultiLanguageSpellData['cn'][1227448] = {name = "奖励250正义点数", additional_info = "瞬发\n[q]使你获得250点正义点数"}
+MultiLanguageSpellData['cn'][1227450] = {name = "Shadowed Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['cn'][1227589] = {name = "Cobalt Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['cn'][1227594] = {name = "Glowing Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['cn'][1227595] = {name = "Crimson Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['cn'][1227598] = {name = "Dark Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['cn'][1227599] = {name = "Acidic Globule - Spawn Spell", additional_info = nil}
