@@ -2171,7 +2171,7 @@ MultiLanguageNpcData['cn'][2680] = {name = "邪枝狼崽", subname = nil}
 MultiLanguageNpcData['cn'][2681] = {name = "邪枝巨狼", subname = nil}
 MultiLanguageNpcData['cn'][2682] = {name = "弗拉德·飞轮", subname = "工程学供应商"}
 MultiLanguageNpcData['cn'][2683] = {name = "纳姆杜", subname = "工程学供应商"}
-MultiLanguageNpcData['cn'][2684] = {name = "里兹·飞矢", subname = nil}
+MultiLanguageNpcData['cn'][2684] = {name = "里兹·飞矢", subname = "工程学供应商"}
 MultiLanguageNpcData['cn'][2685] = {name = "玛兹克·斯奈普沙特", subname = "工程学供应商"}
 MultiLanguageNpcData['cn'][2686] = {name = "枯木巢穴守卫", subname = nil}
 MultiLanguageNpcData['cn'][2687] = {name = "格纳兹·枪焰", subname = "工程学供应商"}
@@ -24637,7 +24637,7 @@ MultiLanguageNpcData['cn'][33695] = {name = "诅咒教派投弹手", subname = n
 MultiLanguageNpcData['cn'][33696] = {name = "大法师琳蒂安", subname = nil}
 MultiLanguageNpcData['cn'][33697] = {name = "Raging Ancient Target", subname = nil}
 MultiLanguageNpcData['cn'][33698] = {name = "银色维和者", subname = nil}
-MultiLanguageNpcData['cn'][33699] = {name = "雷暴锻铸守护者", subname = nil}
+MultiLanguageNpcData['cn'][33699] = {name = "淬雷守护者", subname = nil}
 MultiLanguageNpcData['cn'][33701] = {name = "高级探险家蒂尔洛拉", subname = "探险者协会"}
 MultiLanguageNpcData['cn'][33704] = {name = "冰冷憎恶", subname = nil}
 MultiLanguageNpcData['cn'][33705] = {name = "能量符文", subname = nil}
@@ -24656,7 +24656,7 @@ MultiLanguageNpcData['cn'][33718] = {name = "青铜随从", subname = nil}
 MultiLanguageNpcData['cn'][33719] = {name = "翡翠随从", subname = nil}
 MultiLanguageNpcData['cn'][33720] = {name = "黑曜石随从", subname = nil}
 MultiLanguageNpcData['cn'][33721] = {name = "看门人投射装置", subname = nil}
-MultiLanguageNpcData['cn'][33722] = {name = "雷暴锻铸守护者", subname = nil}
+MultiLanguageNpcData['cn'][33722] = {name = "淬雷守护者", subname = nil}
 MultiLanguageNpcData['cn'][33725] = {name = "Thorim Trap Bunny", subname = nil}
 MultiLanguageNpcData['cn'][33726] = {name = "碎木攻城车", subname = nil}
 MultiLanguageNpcData['cn'][33727] = {name = "学者布尔科", subname = nil}
@@ -40939,7 +40939,7 @@ MultiLanguageNpcData['cn'][54559] = {name = "烁光琥珀蝇", subname = nil}
 MultiLanguageNpcData['cn'][54560] = {name = "Frozen Servitor Spawn Stalker", subname = nil}
 MultiLanguageNpcData['cn'][54563] = {name = "熔火流星", subname = nil}
 MultiLanguageNpcData['cn'][54565] = {name = "冰墓", subname = nil}
-MultiLanguageNpcData['cn'][54566] = {name = "破碎的地面", subname = nil}
+MultiLanguageNpcData['cn'][54566] = {name = "破碎的地面", subname = "扭曲时光"}
 MultiLanguageNpcData['cn'][54567] = {name = "艾莎·云歌", subname = nil}
 MultiLanguageNpcData['cn'][54568] = {name = "季·火掌", subname = "火金大师"}
 MultiLanguageNpcData['cn'][54569] = {name = "分体之魂", subname = nil}

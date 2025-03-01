@@ -24854,7 +24854,7 @@ MultiLanguageNpcData['cn'][149304] = {name = "Kill Credit: Vulpera Scared Off", 
 MultiLanguageNpcData['cn'][149305] = {name = "Kill Credit: Talk with Sandwalker Vakaara", subname = nil}
 MultiLanguageNpcData['cn'][149306] = {name = "沙行者瓦卡拉", subname = nil}
 MultiLanguageNpcData['cn'][149307] = {name = "Shrinkified Assault Tank", subname = nil}
-MultiLanguageNpcData['cn'][149308] = {name = "被束缚的元素", subname = nil}
+MultiLanguageNpcData['cn'][149308] = {name = "被束缚的元素", subname = "沙行者瓦卡拉的爪牙"}
 MultiLanguageNpcData['cn'][149309] = {name = "亚瑟·贸风", subname = nil}
 MultiLanguageNpcData['cn'][149310] = {name = "沙鸣图腾", subname = nil}
 MultiLanguageNpcData['cn'][149311] = {name = "珊蒂斯·羽月", subname = nil}
@@ -25440,9 +25440,9 @@ MultiLanguageNpcData['cn'][149955] = {name = "Kill Credit: Magni Meets MOTHER", 
 MultiLanguageNpcData['cn'][149956] = {name = "叛乱的赞丘利虔信者", subname = nil}
 MultiLanguageNpcData['cn'][149957] = {name = "赞达拉水手", subname = "赞达拉水手"}
 MultiLanguageNpcData['cn'][149958] = {name = "帕库拉女祭司", subname = nil}
-MultiLanguageNpcData['cn'][149959] = {name = "猢狲嘲讽者", subname = nil}
+MultiLanguageNpcData['cn'][149959] = {name = "猢狲嘲讽者", subname = "杜克萨匪帮"}
 MultiLanguageNpcData['cn'][149960] = {name = "部落战旗", subname = nil}
-MultiLanguageNpcData['cn'][149962] = {name = "工程学狂热者", subname = nil}
+MultiLanguageNpcData['cn'][149962] = {name = "工程学狂热者", subname = "阿拉克尼军团"}
 MultiLanguageNpcData['cn'][149963] = {name = "黑暗游侠", subname = nil}
 MultiLanguageNpcData['cn'][149964] = {name = "迅捷复仇号船员", subname = nil}
 MultiLanguageNpcData['cn'][149966] = {name = "生锈的捣蛋鬼", subname = nil}
@@ -30213,7 +30213,7 @@ MultiLanguageNpcData['cn'][155433] = {name = "虚触使者", subname = nil}
 MultiLanguageNpcData['cn'][155434] = {name = "潮汐使者", subname = nil}
 MultiLanguageNpcData['cn'][155435] = {name = "欧沃斯巴克", subname = "迷你艾泽拉斯"}
 MultiLanguageNpcData['cn'][155436] = {name = "HK-8", subname = "迷你艾泽拉斯"}
-MultiLanguageNpcData['cn'][155437] = {name = "加兹鲁维", subname = nil}
+MultiLanguageNpcData['cn'][155437] = {name = "加兹鲁维", subname = "迷你艾泽拉斯"}
 MultiLanguageNpcData['cn'][155438] = {name = "麦卡贡国王", subname = nil}
 MultiLanguageNpcData['cn'][155439] = {name = "艾拉兹敏王子", subname = "迷你艾泽拉斯"}
 MultiLanguageNpcData['cn'][155440] = {name = "艾拉兹敏王子", subname = "迷你艾泽拉斯"}
