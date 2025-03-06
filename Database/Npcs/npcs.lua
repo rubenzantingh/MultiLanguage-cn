@@ -22959,3 +22959,4 @@ MultiLanguageNpcData['cn'][222858] = {name = "Pinchy the Plunderer", subname = n
 MultiLanguageNpcData['cn'][224065] = {name = "小飙", subname = nil}
 MultiLanguageNpcData['cn'][232527] = {name = "勒文", subname = nil}
 MultiLanguageNpcData['cn'][232536] = {name = "木雕腾天幼蛇", subname = nil}
+MultiLanguageNpcData['cn'][237248] = {name = "欢悦", subname = nil}

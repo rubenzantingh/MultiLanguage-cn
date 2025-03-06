@@ -11999,10 +11999,10 @@ MultiLanguageItemData['cn'][92189] = {name = "[q2]攫灵者奖章", additional_i
 MultiLanguageItemData['cn'][92190] = {name = "[q2]尚武者垂饰", additional_info = "拾取后绑定\n颈部\n+190 力量\n+286 耐力\n[q2]+ 127精通\n需要等级 85\n[q2]装备：爆击等级提高 127点。\n售价:"}
 MultiLanguageItemData['cn'][92191] = {name = "[q2]尚武者护符", additional_info = "拾取后绑定\n颈部\n+190 力量\n+286 耐力\n需要等级 85\n[q2]装备：使你的躲闪等级提高 127点。\n[q2]装备：使你的招架等级提高 127点。\n售价:"}
 MultiLanguageItemData['cn'][92192] = {name = "[q2]暗行者剃刀", additional_info = "拾取后绑定\n{单手} {匕首}\n{1,165 - 2,164伤害} {速度 1.80}\n（每秒伤害924.72）\n+146 敏捷\n+219 耐力\n耐久: 55 / 55\n需要等级 85\n[q2]装备：爆击等级提高 86点。\n[q2]装备：急速等级提高 105点。\n售价:"}
-MultiLanguageItemData['cn'][92193] = {name = "[q2]林行者步枪", additional_info = "拾取后绑定\n{远程} {枪}\n{2,618 - 4,862伤害} {速度 3.00}\n（每秒伤害1,247）\n+341 敏捷\n+512 耐力\n耐久: 85 / 85\n需要等级 85\n[q2]装备：命中等级提高 244点。\n[q2]装备：急速等级提高 200点。\n售价:"}
-MultiLanguageItemData['cn'][92194] = {name = "[q2]启迪者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{550 - 1,022 冰霜伤害} {速度 1.70}\n（每秒伤害462.35）\n+219 耐力\n+146 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 97点。\n[q2]装备：急速等级提高 97点。\n[q2]装备：法术强度提高 1,954点。\n售价:"}
-MultiLanguageItemData['cn'][92195] = {name = "[q2]拯救者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{550 - 1,022 神圣伤害} {速度 1.70}\n（每秒伤害462.35）\n+219 耐力\n+146 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 97点。\n[q2]装备：急速等级提高 97点。\n[q2]装备：法术强度提高 1,954点。\n售价:"}
-MultiLanguageItemData['cn'][92196] = {name = "[q2]攫灵者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{550 - 1,022 暗影伤害} {速度 1.70}\n（每秒伤害462.35）\n+219 耐力\n+146 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 97点。\n[q2]装备：急速等级提高 97点。\n[q2]装备：法术强度提高 1,954点。\n售价:"}
+MultiLanguageItemData['cn'][92193] = {name = "[q2]林行者步枪", additional_info = "拾取后绑定\n{远程} {枪}\n{1,309 - 2,431伤害} {速度 3.00}\n（每秒伤害623.33）\n+107 敏捷\n+161 耐力\n耐久: 85 / 85\n需要等级 85\n[q2]装备：命中等级提高 72点。\n[q2]装备：急速等级提高 72点。\n售价:"}
+MultiLanguageItemData['cn'][92194] = {name = "[q2]启迪者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{1,048 - 1,947 冰霜伤害} {速度 1.70}\n（每秒伤害880.88）\n+161 耐力\n+107 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 72点。\n[q2]装备：急速等级提高 72点。\n售价:"}
+MultiLanguageItemData['cn'][92195] = {name = "[q2]拯救者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{1,048 - 1,947 神圣伤害} {速度 1.70}\n（每秒伤害880.88）\n+161 耐力\n+107 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 72点。\n[q2]装备：急速等级提高 72点。\n售价:"}
+MultiLanguageItemData['cn'][92196] = {name = "[q2]攫灵者魔杖", additional_info = "拾取后绑定\n{远程} {魔杖}\n{1,048 - 1,947 暗影伤害} {速度 1.70}\n（每秒伤害880.88）\n+161 耐力\n+107 智力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 72点。\n[q2]装备：急速等级提高 72点。\n售价:"}
 MultiLanguageItemData['cn'][92197] = {name = "[q2]唤雷者护腿", additional_info = "拾取后绑定\n{腿部} {锁甲}\n2129护甲\n+341 敏捷\n+512 耐力\n[q2]+ 200精通\n耐久: 85 / 85\n需要等级 85\n[q2]装备：急速等级提高 244点。\n售价:"}
 MultiLanguageItemData['cn'][92198] = {name = "[q2]攫灵者长裤", additional_info = "拾取后绑定\n{腿部} {布甲}\n1094护甲\n+512 耐力\n+341 智力\n耐久: 85 / 85\n需要等级 85\n[q2]装备：爆击等级提高 200点。\n[q2]装备：急速等级提高 244点。\n售价:"}
 MultiLanguageItemData['cn'][92199] = {name = "[q2]唤雷者长裤", additional_info = "拾取后绑定\n{腿部} {锁甲}\n2129护甲\n+512 耐力\n+341 智力\n耐久: 85 / 85\n需要等级 85\n[q2]装备：爆击等级提高 228点。\n[q2]装备：急速等级提高 228点。\n售价:"}
@@ -12789,6 +12789,8 @@ MultiLanguageItemData['cn'][232976] = {name = "[q4]风暴海崖唤雷剑之袋",
 MultiLanguageItemData['cn'][232977] = {name = "[q4]风暴海崖唤雷剑之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"内含一件风暴海崖唤雷剑（智力）\"\n[q2]<右键单击打开>"}
 MultiLanguageItemData['cn'][233017] = {name = "[q0]怪物 - 贝尔洛克之剑", additional_info = "{副手} {剑}\n{1 - 2伤害} {速度 2.00}\n（每秒伤害0.75）\n耐久: 20 / 20\n售价:"}
 MultiLanguageItemData['cn'][234446] = {name = "[q4]战斗的奖励", additional_info = "拾取后绑定\n[q2]使用: 使你获得250点正义点数"}
+MultiLanguageItemData['cn'][235464] = {name = "[q3]染煞茶具", additional_info = "拾取后绑定\n唯一\n玩具\n[q2]使用: 摆出染煞茶具，斟上独一无二的混制茶。 (1小时 冷却)"}
+MultiLanguageItemData['cn'][235561] = {name = "[q3]欢欢", additional_info = "拾取后绑定\n[q2]使用:  教你学会召唤这种小伙伴。\n[q2]右键点击以召唤或解散欢悦。\n售价:"}
 MultiLanguageItemData['cn'][237808] = {name = "[q2]艾泽拉斯生存包", additional_info = "拾取后绑定\n[q2]使用: 打开袋子！\n[q]\"为新兵提供的基础补给包，内含其他专精的装备和一些消耗品。\""}
 MultiLanguageItemData['cn'][238068] = {name = "[q3]图样：恶毒烬丝兜帽", additional_info = "拾取后绑定\n需要 裁缝 (525)\n[q2]使用:  教你学会制作恶毒烬丝兜帽。\n\n\n[q3]恶毒烬丝兜帽\n装备后绑定\n{头部} {布甲}\n1124护甲\n+605 耐力\n+403 智力\n耐久: 85 / 85\n需要等级 85\n[q2]装备：使你的韧性等级提高 269点。\n[q2]装备：急速等级提高 269点。\n售价: \n需要 烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
 MultiLanguageItemData['cn'][238069] = {name = "[q3]图样：恶毒烬丝长裤", additional_info = "拾取后绑定\n需要 裁缝 (525)\n[q2]使用:  教你学会制作恶毒烬丝长裤。\n\n\n[q3]恶毒烬丝长裤\n装备后绑定\n{腿部} {布甲}\n1210护甲\n+605 耐力\n+403 智力\n[q2]+ 269精通\n耐久: 100 / 100\n需要等级 85\n[q2]装备：使你的韧性等级提高 269点。\n售价: \n需要 烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
@@ -12906,7 +12908,8 @@ MultiLanguageItemData['cn'][238337] = {name = "[q4]丹心项圈", additional_inf
 MultiLanguageItemData['cn'][238338] = {name = "[q4]极乐碎片", additional_info = "拾取后绑定\n颈部\n+227 力量\n+341 耐力\n需要等级 85\n[q2]装备：使你的躲闪等级提高 173点。\n[q2]装备：命中等级提高 115点。\n售价:"}
 MultiLanguageItemData['cn'][238392] = {name = "龙眠联军玺戒", additional_info = "拾取后绑定\n唯一\n持续时间：1天 (实时)\n[q2]使用: 召唤一名龙眠神殿防御者。 (2分钟 冷却)\n[q]\"使用这枚玺戒，召唤一名龙眠神殿防御者协助你。\""}
 MultiLanguageItemData['cn'][239110] = {name = "[q4]战斗的奖励", additional_info = "拾取后绑定\n[q2]使用: 使你获得250点正义点数"}
-MultiLanguageItemData['cn'][239111] = {name = "[q4]耀光头巾之袋", additional_info = "拾取后绑定\n[q]\"包含一件耀光头巾。\"\n[q2]<右键单击打开>"}
-MultiLanguageItemData['cn'][239112] = {name = "[q4]耀光护肩之袋", additional_info = "拾取后绑定\n[q]\"包含一对耀光护肩。\"\n[q2]<右键单击打开>"}
-MultiLanguageItemData['cn'][239113] = {name = "[q4]耀光腕带之袋", additional_info = "拾取后绑定\n[q]\"包含一对耀光腕带。\"\n[q2]<右键单击打开>"}
-MultiLanguageItemData['cn'][239114] = {name = "[q4]耀光手铠之袋", additional_info = "拾取后绑定\n[q]\"包含一对耀光手铠。\"\n[q2]<右键单击打开>"}
+MultiLanguageItemData['cn'][239111] = {name = "[q4]耀光头巾之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"包含一件耀光头巾。\"\n[q2]<右键单击打开>"}
+MultiLanguageItemData['cn'][239112] = {name = "[q4]耀光护肩之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"包含一对耀光护肩。\"\n[q2]<右键单击打开>"}
+MultiLanguageItemData['cn'][239113] = {name = "[q4]耀光腕带之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"包含一对耀光腕带。\"\n[q2]<右键单击打开>"}
+MultiLanguageItemData['cn'][239114] = {name = "[q4]耀光手铠之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"包含一对耀光手铠。\"\n[q2]<右键单击打开>"}
+MultiLanguageItemData['cn'][239220] = {name = "[q4]耀光肩饰之袋", additional_info = "[q2]英雄级别\n拾取后绑定\n[q]\"包含一对耀光肩饰。\"\n[q2]<右键单击打开>"}
