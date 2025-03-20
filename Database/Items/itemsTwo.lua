@@ -11920,44 +11920,44 @@ MultiLanguageItemData['cn'][92110] = {name = "[q2]厄运之心长剑", additiona
 MultiLanguageItemData['cn'][92111] = {name = "[q2]虔信者长剑", additional_info = "拾取后绑定\n{单手} {剑}\n{1,553 - 2,885伤害} {速度 2.40}\n（每秒伤害924.58）\n+146 力量\n+219 耐力\n耐久: 75 / 75\n需要等级 85\n[q2]装备：使你的躲闪等级提高 97点。\n[q2]装备：使你的招架等级提高 97点。\n售价:"}
 MultiLanguageItemData['cn'][92112] = {name = "[q2]唤雷者钉锤", additional_info = "拾取后绑定\n{单手} {权杖}\n{1,682 - 3,125伤害} {速度 2.60}\n（每秒伤害924.42）\n+146 敏捷\n+219 耐力\n[q2]+ 97精通\n耐久: 75 / 75\n需要等级 85\n[q2]装备：爆击等级提高 97点。\n售价:"}
 MultiLanguageItemData['cn'][92113] = {name = "[q2]拯救者毁灭雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92114] = {name = "[q2]虔信者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92114] = {name = "[q2]虔信者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92115] = {name = "[q2]拯救者智慧之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得1926点智力，持续10 sec。（特效触发几率：10%，30秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92116] = {name = "[q2]唤雷者狂暴雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的攻击有一定几率令你获得963点敏捷，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92117] = {name = "[q2]暗行者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92117] = {name = "[q2]暗行者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92118] = {name = "[q2]暗行者狂暴雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的攻击有一定几率令你获得963点敏捷，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92119] = {name = "[q2]唤雷者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92119] = {name = "[q2]唤雷者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92120] = {name = "[q2]唤雷者毁灭雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92121] = {name = "[q2]唤雷者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92121] = {name = "[q2]唤雷者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92122] = {name = "[q2]唤雷者智慧之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得1926点智力，持续10 sec。（特效触发几率：10%，30秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92123] = {name = "[q2]唤雷者智慧雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得5700点法力值。（10%几率，55秒冷却时间）（特效触发几率：10%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92124] = {name = "[q2]攫灵者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92124] = {name = "[q2]攫灵者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92125] = {name = "[q2]攫灵者毁灭雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92126] = {name = "[q2]尚武者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92126] = {name = "[q2]尚武者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92127] = {name = "[q2]尚武者卫士雕像", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 你的攻击有一定几率使你获得963躲闪，持续15 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92128] = {name = "[q2]尚武者战争雕像", additional_info = "拾取后绑定\n饰品\n需要等级 85\n[q2]装备：爆击等级提高 321点。\n[q2]装备： 你的攻击有一定几率令你获得963点力量，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92129] = {name = "[q2]尚武者战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92129] = {name = "[q2]尚武者战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92130] = {name = "[q2]厄运之心板带", additional_info = "拾取后绑定\n{腰部} {板甲}\n1927护甲\n+253 力量\n+380 耐力\n[q2]+ 181精通\n耐久: 40 / 40\n需要等级 85\n[q2]装备：爆击等级提高 148点。\n售价:"}
 MultiLanguageItemData['cn'][92131] = {name = "[q2]厄运之心护腰", additional_info = "拾取后绑定\n{腰部} {板甲}\n1927护甲\n+253 力量\n+380 耐力\n[q2]+ 128精通\n耐久: 40 / 40\n需要等级 85\n[q2]装备：使你的躲闪等级提高 193点。\n售价:"}
 MultiLanguageItemData['cn'][92132] = {name = "[q2]拜灵者腰带", additional_info = "拾取后绑定\n{腰部} {皮甲}\n939护甲\n+380 耐力\n+253 智力\n[q2]+ 181精通\n耐久: 40 / 40\n需要等级 85\n[q2]装备：爆击等级提高 148点。\n售价:"}
 MultiLanguageItemData['cn'][92133] = {name = "[q2]拜灵者狂暴雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的攻击有一定几率令你获得963点敏捷，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92134] = {name = "[q2]厄运之心防御者之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92134] = {name = "[q2]厄运之心防御者之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92135] = {name = "[q2]厄运之心防御者雕像", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 你的攻击有一定几率使你获得963躲闪，持续15 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92136] = {name = "[q2]拜灵者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92136] = {name = "[q2]拜灵者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92137] = {name = "[q2]拜灵者毁灭雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92138] = {name = "[q2]拜灵者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92138] = {name = "[q2]拜灵者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92139] = {name = "[q2]拜灵者智慧之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得1926点智力，持续10 sec。（特效触发几率：10%，30秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92140] = {name = "[q2]拜灵者智慧雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得5700点法力值。（10%几率，55秒冷却时间）（特效触发几率：10%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92141] = {name = "[q2]林行者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92141] = {name = "[q2]林行者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92142] = {name = "[q2]林行者狂暴雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的攻击有一定几率令你获得963点敏捷，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92143] = {name = "[q2]启迪者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92143] = {name = "[q2]启迪者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92144] = {name = "[q2]启迪者毁灭雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 每当你的有害法术命中时，你有一定几率获得963急速，持续20 sec。（15%几率，115秒冷却时间）（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92145] = {name = "[q2]虔信者智慧之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得1926点智力，持续10 sec。（特效触发几率：10%，30秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92146] = {name = "[q2]虔信者智慧雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得5700点法力值。（10%几率，55秒冷却时间）（特效触发几率：10%，55秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92147] = {name = "[q2]虔信者卫士雕像", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 你的攻击有一定几率使你获得963躲闪，持续15 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92148] = {name = "[q2]虔信者战争雕像", additional_info = "拾取后绑定\n饰品\n需要等级 85\n[q2]装备：爆击等级提高 321点。\n[q2]装备： 你的攻击有一定几率令你获得963点力量，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92149] = {name = "[q2]虔信者战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92149] = {name = "[q2]虔信者战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92150] = {name = "[q2]拯救者智慧雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得5700点法力值。（10%几率，55秒冷却时间）（特效触发几率：10%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92151] = {name = "[q2]拯救者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92151] = {name = "[q2]拯救者毁灭之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92152] = {name = "[q2]拜灵者肩胄", additional_info = "拾取后绑定\n{肩部} {皮甲}\n1252护甲\n+253 敏捷\n+380 耐力\n耐久: 70 / 70\n需要等级 85\n[q2]装备：急速等级提高 193点。\n[q2]装备：使你的精准等级提高 128点。\n售价:"}
 MultiLanguageItemData['cn'][92153] = {name = "[q2]林行者护肩", additional_info = "拾取后绑定\n{肩部} {锁甲}\n1825护甲\n+253 敏捷\n+380 耐力\n[q2]+ 128精通\n耐久: 70 / 70\n需要等级 85\n[q2]装备：急速等级提高 193点。\n售价:"}
 MultiLanguageItemData['cn'][92154] = {name = "[q2]启迪者护肩", additional_info = "拾取后绑定\n{肩部} {布甲}\n938护甲\n+380 耐力\n+253 智力\n[q2]+ 128精通\n耐久: 70 / 70\n需要等级 85\n[q2]装备：命中等级提高 193点。\n售价:"}
@@ -11974,7 +11974,7 @@ MultiLanguageItemData['cn'][92164] = {name = "[q2]唤雷者肩铠", additional_i
 MultiLanguageItemData['cn'][92165] = {name = "[q2]尚武者肩胄", additional_info = "拾取后绑定\n{肩部} {板甲}\n2570护甲\n+253 力量\n+380 耐力\n耐久: 70 / 70\n需要等级 85\n[q2]装备：爆击等级提高 148点。\n[q2]装备：急速等级提高 181点。\n售价:"}
 MultiLanguageItemData['cn'][92166] = {name = "[q2]尚武者护肩", additional_info = "拾取后绑定\n{肩部} {板甲}\n2570护甲\n+253 力量\n+380 耐力\n耐久: 70 / 70\n需要等级 85\n[q2]装备：使你的躲闪等级提高 128点。\n[q2]装备：使你的精准等级提高 193点。\n售价:"}
 MultiLanguageItemData['cn'][92167] = {name = "[q2]厄运之心战争雕像", additional_info = "拾取后绑定\n饰品\n需要等级 85\n[q2]装备：爆击等级提高 321点。\n[q2]装备： 你的攻击有一定几率令你获得963点力量，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92168] = {name = "[q2]厄运之心战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92168] = {name = "[q2]厄运之心战争之石", additional_info = "拾取后绑定\n饰品\n+321 力量\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92169] = {name = "[q2]启迪者长袍", additional_info = "拾取后绑定\n{胸部} {布甲}\n1251护甲\n+512 耐力\n+341 智力\n耐久: 115 / 115\n需要等级 85\n[q2]装备：爆击等级提高 228点。\n[q2]装备：命中等级提高 228点。\n售价:"}
 MultiLanguageItemData['cn'][92170] = {name = "[q2]拯救者长袍", additional_info = "拾取后绑定\n{胸部} {布甲}\n1251护甲\n+512 耐力\n+341 智力\n[q2]+ 228精通\n耐久: 115 / 115\n需要等级 85\n[q2]装备：爆击等级提高 228点。\n售价:"}
 MultiLanguageItemData['cn'][92171] = {name = "[q2]拯救者外套", additional_info = "拾取后绑定\n{胸部} {布甲}\n1251护甲\n+512 耐力\n+341 智力\n+259精神\n耐久: 115 / 115\n需要等级 85\n[q2]装备：急速等级提高 173点。\n售价:"}
@@ -12204,9 +12204,9 @@ MultiLanguageItemData['cn'][92394] = {name = "[q2]水舞者护符", additional_i
 MultiLanguageItemData['cn'][92395] = {name = "[q2]水舞者护肩", additional_info = "拾取后绑定\n{肩部} {皮甲}\n1252护甲\n+380 耐力\n+253 智力\n+148精神\n耐久: 70 / 70\n需要等级 85\n[q2]装备：急速等级提高 181点。\n售价:"}
 MultiLanguageItemData['cn'][92396] = {name = "[q2]水舞者肩胄", additional_info = "拾取后绑定\n{肩部} {皮甲}\n1252护甲\n+253 敏捷\n+380 耐力\n耐久: 70 / 70\n需要等级 85\n[q2]装备：急速等级提高 193点。\n[q2]装备：使你的精准等级提高 128点。\n售价:"}
 MultiLanguageItemData['cn'][92397] = {name = "[q2]水舞者智慧雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得5700点法力值。（10%几率，55秒冷却时间）（特效触发几率：10%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92398] = {name = "[q2]水舞者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92398] = {name = "[q2]水舞者卫士之石", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92399] = {name = "[q2]水舞者卫士雕像", additional_info = "拾取后绑定\n饰品\n+482 耐力\n需要等级 85\n[q2]装备： 你的攻击有一定几率使你获得963躲闪，持续15 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
-MultiLanguageItemData['cn'][92400] = {name = "[q2]水舞者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得2573精通，持续20 sec。（特效触发几率：15%，1.083分钟 冷却）\n售价:"}
+MultiLanguageItemData['cn'][92400] = {name = "[q2]水舞者狂暴之石", additional_info = "拾取后绑定\n饰品\n+321 敏捷\n需要等级 85\n[q2]装备： 当你的攻击命中时，你有一定几率获得1926精通，持续20 sec。（特效触发几率：10%，1.667分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92401] = {name = "[q2]水舞者狂暴雕像", additional_info = "拾取后绑定\n饰品\n[q2]+ 321精通\n需要等级 85\n[q2]装备： 你的攻击有一定几率令你获得963点敏捷，持续20 sec。（15%几率，55秒冷却时间）（特效触发几率：15%，55秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92402] = {name = "[q2]水舞者智慧之石", additional_info = "拾取后绑定\n饰品\n+321 智力\n需要等级 85\n[q2]装备： 你的治疗法术有一定几率使你获得1926点智力，持续10 sec。（特效触发几率：10%，30秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][92403] = {name = "[q2]水舞者护腰", additional_info = "拾取后绑定\n{腰部} {皮甲}\n939护甲\n+380 耐力\n+253 智力\n+169精神\n耐久: 40 / 40\n需要等级 85\n[q2]装备：急速等级提高 169点。\n售价:"}
