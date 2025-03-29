@@ -27521,7 +27521,7 @@ MultiLanguageNpcData['cn'][152477] = {name = "工匠大师欧沃斯巴克", subn
 MultiLanguageNpcData['cn'][152479] = {name = "折虚雏龙", subname = nil}
 MultiLanguageNpcData['cn'][152480] = {name = "探险队斥候", subname = nil}
 MultiLanguageNpcData['cn'][152481] = {name = "磁力飞行器", subname = nil}
-MultiLanguageNpcData['cn'][152482] = {name = "Magnetocraft", subname = nil}
+MultiLanguageNpcData['cn'][152482] = {name = "磁力飞行器", subname = nil}
 MultiLanguageNpcData['cn'][152483] = {name = "探险队旋翼机", subname = nil}
 MultiLanguageNpcData['cn'][152484] = {name = "工匠大师欧沃斯巴克", subname = "侏儒工程学首席技师"}
 MultiLanguageNpcData['cn'][152486] = {name = "Underhold Elite Guard", subname = nil}
