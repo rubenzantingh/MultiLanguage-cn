@@ -1470,7 +1470,7 @@ MultiLanguageItemData['cn'][60729] = {name = "[q3]基沙恩的束带", additiona
 MultiLanguageItemData['cn'][60730] = {name = "[q3]B连图章", additional_info = "拾取后绑定\n手指\n+3 力量\n+3 耐力\n[q2]装备：命中等级提高 3点。\n售价:"}
 MultiLanguageItemData['cn'][60731] = {name = "书信递送袋", additional_info = "拾取后绑定\n8槽容器\n售价:"}
 MultiLanguageItemData['cn'][60732] = {name = "褪魔的蒂基面具", additional_info = "任务物品\n唯一（8）"}
-MultiLanguageItemData['cn'][60734] = {name = "基沙恩的巾帕", additional_info = "拾取后绑定\n头部\n售价:"}
+MultiLanguageItemData['cn'][60734] = {name = "基沙恩的巾帕", additional_info = "拾取后绑定\n头部\n+18 奥术抗性\n+18 火焰抗性\n售价:"}
 MultiLanguageItemData['cn'][60737] = {name = "刺蓟之种", additional_info = "任务物品\n[q]\"哎呦！\""}
 MultiLanguageItemData['cn'][60738] = {name = "初生源质之刺", additional_info = "任务物品\n[q]\"食人魔召出的一柄粗糙而锋利的尖刺。\""}
 MultiLanguageItemData['cn'][60739] = {name = "暮光奴隶的钥匙", additional_info = "任务物品"}
@@ -11319,8 +11319,8 @@ MultiLanguageItemData['cn'][78340] = {name = "[q3]暗月马戏团披风", additi
 MultiLanguageItemData['cn'][78341] = {name = "[q3]暗月大锤", additional_info = "装备后绑定\n{双手} {权杖}\n{2 - 4伤害} {速度 3.30}\n（每秒伤害0.91）\n耐久: 25 / 25\n售价:"}
 MultiLanguageItemData['cn'][78342] = {name = "[q2]肥美的掘地鼠", additional_info = "拾取后绑定\n需要 烹饪 (1)\n\"将其放在火上烹饪可学会掘地鼠炖肉食谱。\"\n售价:"}
 MultiLanguageItemData['cn'][78343] = {name = "[q2]公式：附魔手套 - 采药", additional_info = "拾取后绑定\n需要 附魔 (145)\n使用:  教你学会永久性地为一双手套附魔，使其获得草药学技能+2的效果。\n永久性地为一双手套附魔，使其获得草药学技能+2的效果。\n售价:"}
-MultiLanguageItemData['cn'][78345] = {name = "[q3]图样：绿龙鳞片护腿", additional_info = "拾取后绑定\n需要 制皮 (270)\n[q2]使用:  教你学会制作绿龙鳞片护腿。\n售价:\n[q3]绿龙鳞片护腿\n装备后绑定\n{腿部} {锁甲}\n327护甲\n+21 耐力\n+22 智力\n耐久: 100 / 100\n需要等级 49\n\n[q]绿龙锁甲 (0/3)\n[q0]绿龙鳞片胸甲\n绿龙鳞片护腿\n绿色龙鳞护手\n售价: \n需要 硬甲皮 (20), 绿龙鳞片 (25), 符文线"}
-MultiLanguageItemData['cn'][78346] = {name = "[q3]图样：绿龙鳞片胸甲", additional_info = "拾取后绑定\n需要 制皮 (260)\n[q2]使用:  教你学会制作绿龙鳞片胸甲。\n售价:\n[q3]绿龙鳞片胸甲\n装备后绑定\n{胸部} {锁甲}\n361护甲\n+20 耐力\n+22 智力\n耐久: 135 / 135\n需要等级 47\n\n[q]绿龙锁甲 (0/3)\n[q0]绿龙鳞片胸甲\n绿龙鳞片护腿\n绿色龙鳞护手\n售价: \n需要 硬甲皮 (20), 绿龙鳞片 (25), 符文线 (2)"}
+MultiLanguageItemData['cn'][78345] = {name = "[q3]图样：绿龙鳞片护腿", additional_info = "拾取后绑定\n需要 制皮 (270)\n[q2]使用:  教你学会制作绿龙鳞片护腿。\n售价:\n[q3]绿龙鳞片护腿\n装备后绑定\n{腿部} {锁甲}\n327护甲\n+21 耐力\n+22 智力\n+11 自然抗性\n耐久: 100 / 100\n需要等级 49\n\n[q]绿龙锁甲 (0/3)\n[q0]绿龙鳞片胸甲\n绿龙鳞片护腿\n绿色龙鳞护手\n售价: \n需要 硬甲皮 (20), 绿龙鳞片 (25), 符文线"}
+MultiLanguageItemData['cn'][78346] = {name = "[q3]图样：绿龙鳞片胸甲", additional_info = "拾取后绑定\n需要 制皮 (260)\n[q2]使用:  教你学会制作绿龙鳞片胸甲。\n售价:\n[q3]绿龙鳞片胸甲\n装备后绑定\n{胸部} {锁甲}\n361护甲\n+20 耐力\n+22 智力\n+11 自然抗性\n耐久: 135 / 135\n需要等级 47\n\n[q]绿龙锁甲 (0/3)\n[q0]绿龙鳞片胸甲\n绿龙鳞片护腿\n绿色龙鳞护手\n售价: \n需要 硬甲皮 (20), 绿龙鳞片 (25), 符文线 (2)"}
 MultiLanguageItemData['cn'][78348] = {name = "[q3]公式：附魔武器 - 斩杀", additional_info = "需要 附魔 (375)\n使用:  教你学会永久性地为一把近战武器附魔，使其获得有一定几率爆击等级+120的效果。该装备等级不得低于60级。\n永久性地为一把近战武器附魔，使其有一定几率获得爆击等级提高120点的效果。该效果激活时只能生效一次。该装备等级不得低于60级。\n售价:"}
 MultiLanguageItemData['cn'][78352] = {name = "[q5]死亡之翼的下颚碎片", additional_info = "任务物品\n唯一\n[q]\"拿起这片恐怖的残骸就能令你的灵魂充满恐惧。\""}
 MultiLanguageItemData['cn'][78357] = {name = "[q4]烟流手套", additional_info = "拾取后绑定\n手 布甲\n992护甲\n+573 耐力\n+342 智力\n\n[q0]红色插槽\n[q0]红色插槽\n[q0]插槽加成: +20 智力\n\n耐久: 60 / 60\n需要等级 85\n[q2]装备：爆击等级提高 207点。\n[q2]装备：急速等级提高 257点。\n[q]\"龙息凝结，握之无形\"\n售价:"}

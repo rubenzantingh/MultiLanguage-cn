@@ -20563,3 +20563,4 @@ MultiLanguageSpellData['cn'][1227666] = {name = "蓝龙军团的赐福", additio
 MultiLanguageSpellData['cn'][1227909] = {name = "暮光协议", additional_info = nil}
 MultiLanguageSpellData['cn'][1229476] = {name = "法力虚空", additional_info = "瞬发\n[q]在5秒内吸取100%的法力值。"}
 MultiLanguageSpellData['cn'][1230531] = {name = "蓝龙军团的赐福", additional_info = nil}
+MultiLanguageSpellData['cn'][1231991] = {name = "Cooldown Creature Special", additional_info = "瞬发"}
