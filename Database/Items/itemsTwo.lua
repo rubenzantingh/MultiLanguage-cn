@@ -10619,7 +10619,7 @@ MultiLanguageItemData['cn'][77195] = {name = "[q4]拉斯拉克，流毒之心", 
 MultiLanguageItemData['cn'][77196] = {name = "[q4]巨龙领主之喉", additional_info = "拾取后绑定\n{主手} {权杖}\n{1,072 - 1,992伤害} {速度 2.20}\n（每秒伤害696.36）\n+331 耐力\n+220 智力\n耐久: 110 / 110\n需要等级 85\n[q2]装备：法术强度提高 2,945点。\n[q2]装备： 你的治疗法术有一定几率触发净化火焰效果，治疗你前方所有靠近的友方目标5280 to 7920点生命值。（特效触发几率：15%，17秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77197] = {name = "[q4]无拘之怒火", additional_info = "拾取后绑定\n装备唯一：[Wrath of Unchaining]（1）\n饰品\n需要等级 85\n[q2]装备： 你的攻击使得敏捷提高88点，持续10 sec，最多可叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77198] = {name = "[q4]不羁之意志", additional_info = "拾取后绑定\n装备唯一：[Will of Unbinding]（1）\n饰品\n需要等级 85\n[q2]装备： 你的伤害性法术使你的智力提高88点，持续10 sec，最多可以叠加10层。\n售价:"}
-MultiLanguageItemData['cn'][77199] = {name = "[q4]不死者之心", additional_info = "拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+323 智力\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高88点，持续10 sec，最多可叠加10层。\n售价:"}
+MultiLanguageItemData['cn'][77199] = {name = "[q4]不死者之心", additional_info = "拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+323 智力\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高88点，持续10 sec，最多可叠加10层。（100毫秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77200] = {name = "[q4]灭世之魔眼", additional_info = "拾取后绑定\n装备唯一：[Eye of Unmaking]（1）\n饰品\n需要等级 85\n[q2]装备： 你的近战攻击使得力量提高88点，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77201] = {name = "[q4]不朽者之毅", additional_info = "拾取后绑定\n装备唯一：[Resolve of Undying]（1）\n饰品\n需要等级 85\n[q2]装备： 你的近战攻击使你获得88躲闪等级，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77202] = {name = "[q4]摘星罗盘", additional_info = "拾取后绑定\n装备唯一：[Starcatcher Compass]（1）\n饰品\n+458 敏捷\n需要等级 85\n[q2]装备： 当你造成伤害时，你有一定几率获得2904急速等级，持续20 sec。（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
@@ -11116,7 +11116,7 @@ MultiLanguageItemData['cn'][77972] = {name = "[q4]末代龙裔之源", additiona
 MultiLanguageItemData['cn'][77973] = {name = "[q4]摘星罗盘", additional_info = "拾取后绑定\n装备唯一：[Starcatcher Compass]（1）\n饰品\n+406 敏捷\n职业： 猎人 , 潜行者 , 萨满 , 德鲁伊\n需要等级 85\n[q2]装备： 当你造成伤害时，你有一定几率获得2573急速等级，持续20 sec。（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77974] = {name = "[q4]无拘之怒火", additional_info = "拾取后绑定\n装备唯一：[Wrath of Unchaining]（1）\n饰品\n职业： 猎人 , 潜行者 , 萨满 , 德鲁伊\n需要等级 85\n[q2]装备： 你的攻击使得敏捷提高78点，持续10 sec，最多可叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77975] = {name = "[q4]不羁之意志", additional_info = "拾取后绑定\n装备唯一：[Will of Unbinding]（1）\n饰品\n职业： 牧师 , 萨满 , 法师 , 术士 , 德鲁伊\n需要等级 85\n[q2]装备： 你的伤害性法术使你的智力提高78点，持续10 sec，最多可以叠加10层。\n售价:"}
-MultiLanguageItemData['cn'][77976] = {name = "[q4]不死者之心", additional_info = "拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+286 智力\n职业： 圣骑士 , 牧师 , 萨满 , 德鲁伊\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高78点，持续10 sec，最多可叠加10层。\n售价:"}
+MultiLanguageItemData['cn'][77976] = {name = "[q4]不死者之心", additional_info = "拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+286 智力\n职业： 圣骑士 , 牧师 , 萨满 , 德鲁伊\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高78点，持续10 sec，最多可叠加10层。（100毫秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77977] = {name = "[q4]灭世之魔眼", additional_info = "拾取后绑定\n装备唯一：[Eye of Unmaking]（1）\n饰品\n职业： 战士 , 圣骑士 , 死亡骑士\n需要等级 85\n[q2]装备： 你的近战攻击使得力量提高78点，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77978] = {name = "[q4]不朽者之毅", additional_info = "拾取后绑定\n装备唯一：[Resolve of Undying]（1）\n饰品\n职业： 战士 , 圣骑士 , 死亡骑士 , 德鲁伊\n需要等级 85\n[q2]装备： 你的近战攻击使你获得78躲闪等级，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77979] = {name = "[q4]暗影之瓶", additional_info = "拾取后绑定\n装备唯一：[Vial of Shadows]（1）\n饰品\n+406 敏捷\n职业： 猎人 , 潜行者 , 萨满 , 德鲁伊\n需要等级 85\n[q2]装备： 你的近战和远程攻击有一定几率触发一次额外的攻击，造成3568 to 5353点物理伤害。（特效触发几率：45%，9秒 冷却）\n售价:"}
@@ -11136,7 +11136,7 @@ MultiLanguageItemData['cn'][77992] = {name = "[q4]末代龙裔之源", additiona
 MultiLanguageItemData['cn'][77993] = {name = "[q4]摘星罗盘", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Starcatcher Compass]（1）\n饰品\n+517 敏捷\n需要等级 85\n[q2]装备： 当你造成伤害时，你有一定几率获得3278急速等级，持续20 sec。（特效触发几率：15%，1.917分钟 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77994] = {name = "[q4]无拘之怒火", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Wrath of Unchaining]（1）\n饰品\n需要等级 85\n[q2]装备： 你的攻击使得敏捷提高99点，持续10 sec，最多可叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77995] = {name = "[q4]不羁之意志", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Will of Unbinding]（1）\n饰品\n需要等级 85\n[q2]装备： 你的伤害性法术使你的智力提高99点，持续10 sec，最多可以叠加10层。\n售价:"}
-MultiLanguageItemData['cn'][77996] = {name = "[q4]不死者之心", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+364 智力\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高99点，持续10 sec，最多可叠加10层。\n售价:"}
+MultiLanguageItemData['cn'][77996] = {name = "[q4]不死者之心", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Heart of Unliving]（1）\n饰品\n+364 智力\n需要等级 85\n[q2]装备： 你的治疗法术使你的精神提高99点，持续10 sec，最多可叠加10层。（100毫秒 冷却）\n售价:"}
 MultiLanguageItemData['cn'][77997] = {name = "[q4]灭世之魔眼", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Eye of Unmaking]（1）\n饰品\n需要等级 85\n[q2]装备： 你的近战攻击使得力量提高99点，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77998] = {name = "[q4]不朽者之毅", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Resolve of Undying]（1）\n饰品\n需要等级 85\n[q2]装备： 你的近战攻击使你获得99躲闪等级，持续10 sec，最多可以叠加10层。\n售价:"}
 MultiLanguageItemData['cn'][77999] = {name = "[q4]暗影之瓶", additional_info = "[q2]英雄级别\n拾取后绑定\n装备唯一：[Vial of Shadows]（1）\n饰品\n+517 敏捷\n需要等级 85\n[q2]装备： 你的近战和远程攻击有一定几率触发一次额外的攻击，造成4546 to 6819点物理伤害。（特效触发几率：45%，9秒 冷却）\n售价:"}
@@ -11853,7 +11853,7 @@ MultiLanguageItemData['cn'][78887] = {name = "[q4]热情治愈束带", additiona
 MultiLanguageItemData['cn'][78888] = {name = "[q4]流血之骨腰带", additional_info = "装备后绑定\n{腰部} {板甲}\n2154护甲\n+341 力量\n+542 耐力\n\n[q0]红色插槽\n[q0]插槽加成: +10 力量\n\n耐久: 60 / 60\n需要等级 85\n[q2]装备：急速等级提高 237点。\n[q2]装备：使你的精准等级提高 225点。\n售价:"}
 MultiLanguageItemData['cn'][78889] = {name = "[q4]亵渎未来腰带", additional_info = "装备后绑定\n{腰部} {板甲}\n2154护甲\n+341 力量\n+542 耐力\n\n[q0]蓝色插槽\n[q0]插槽加成: +10 招架等级\n\n耐久: 60 / 60\n需要等级 85\n[q2]装备：使你的招架等级提高 233点。\n[q2]装备：命中等级提高 224点。\n售价:"}
 MultiLanguageItemData['cn'][78890] = {name = "[q4]水晶晶簇", additional_info = "拾取后绑定\n[q2]使用: 将水晶晶簇砸碎，看看你能获得哪些宝石！\n售价:"}
-MultiLanguageItemData['cn'][78891] = {name = "[q4]源质覆盖的晶簇", additional_info = "拾取后绑定\n[q2]使用: 将源质覆盖的晶簇砸碎，获取暗影尖石，熔火珊瑚或是皇后榴石！\n售价:"}
+MultiLanguageItemData['cn'][78891] = {name = "[q4]源质覆盖的晶簇", additional_info = "拾取后绑定\n[q2]使用: 将源质覆盖的晶簇砸碎，获取光芒石、精灵榄石、深岩青石、暗影尖石、熔火珊瑚或是皇后榴石！\n售价:"}
 MultiLanguageItemData['cn'][78892] = {name = "[q4]完美的晶簇", additional_info = "拾取后绑定\n[q2]使用: 将完美的晶簇砸碎，看看你能获得哪些史诗级宝石！\n售价:"}
 MultiLanguageItemData['cn'][78896] = {name = "[q0]小块宝石碎片", additional_info = "售价:"}
 MultiLanguageItemData['cn'][78897] = {name = "一小包代币", additional_info = "拾取后绑定\n[q]\"装有5枚暗月游戏代币。\"\n[q2]<右键单击打开>"}

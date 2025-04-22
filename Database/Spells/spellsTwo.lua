@@ -9781,7 +9781,7 @@ MultiLanguageSpellData['cn'][90237] = {name = "Temp Spell 21 - ELM", additional_
 MultiLanguageSpellData['cn'][90239] = {name = "Temp Spell 22 - ELM", additional_info = nil}
 MultiLanguageSpellData['cn'][90240] = {name = "Temp Spell 23 - ELM", additional_info = nil}
 MultiLanguageSpellData['cn'][90241] = {name = "Temp Spell 24 - ELM", additional_info = nil}
-MultiLanguageSpellData['cn'][90246] = {name = "Old Friends: On Exit Back Seat", additional_info = nil}
+MultiLanguageSpellData['cn'][90246] = {name = "<INTERNAL>Old Friends: On Exit Back Seat", additional_info = nil}
 MultiLanguageSpellData['cn'][90247] = {name = "Generic - Stop Playing Current Music", additional_info = nil}
 MultiLanguageSpellData['cn'][90248] = {name = "Hotfix Prep", additional_info = nil}
 MultiLanguageSpellData['cn'][90252] = {name = "Send General Trigger 1", additional_info = nil}
@@ -12368,7 +12368,7 @@ MultiLanguageSpellData['cn'][94299] = {name = "Fire Port", additional_info = nil
 MultiLanguageSpellData['cn'][94300] = {name = "Earth Port", additional_info = nil}
 MultiLanguageSpellData['cn'][94301] = {name = "Teleport to Cutscene [INTERNAL ONLY]", additional_info = nil}
 MultiLanguageSpellData['cn'][94304] = {name = "See Coffer and Schnottz", additional_info = nil}
-MultiLanguageSpellData['cn'][94306] = {name = "Absorb Essence", additional_info = nil}
+MultiLanguageSpellData['cn'][94306] = {name = "Absorb Essence <DND>", additional_info = nil}
 MultiLanguageSpellData['cn'][94308] = {name = "Twilight Skies: Dragon Attacks Zeppelin Sound", additional_info = nil}
 MultiLanguageSpellData['cn'][94309] = {name = "Twilight Skies: Dragon Attacks Zeppelin Breath Sound", additional_info = nil}
 MultiLanguageSpellData['cn'][94310] = {name = "黑暗意图", additional_info = "无限范围\n瞬发\n[q]你将自己与所选友方目标联结起来，使你们双方的急速都提高3%。\n\n 当你或被联结的目标获得一次持续性爆击伤害或者持续性爆击治疗效果时，则另一方的持续性伤害和治疗效果也会提高，持续7 sec。你的效果提高3%，目标的效果提高1%。最多叠加3次。黑暗意图持续30 min。"}
@@ -12413,9 +12413,9 @@ MultiLanguageSpellData['cn'][94361] = {name = "Forcecast Trogg Kill Credit", add
 MultiLanguageSpellData['cn'][94362] = {name = "Summon Alexstrasza Voice Bubble [INTERNAL ONLY]", additional_info = nil}
 MultiLanguageSpellData['cn'][94363] = {name = "Summon Cofffer Bunny", additional_info = nil}
 MultiLanguageSpellData['cn'][94364] = {name = "Forcecast Twilight Minion Kill Credit", additional_info = nil}
-MultiLanguageSpellData['cn'][94365] = {name = "Unlimited Potential: Cage", additional_info = nil}
+MultiLanguageSpellData['cn'][94365] = {name = "<INTERNAL>Unlimited Potential: Cage", additional_info = nil}
 MultiLanguageSpellData['cn'][94366] = {name = "真言术：韧", additional_info = "60法力值 30 码范围\n瞬发\n[q]提高一个盟友的耐力，持续30 min。"}
-MultiLanguageSpellData['cn'][94367] = {name = "Unlimited Potential: Boss Whisper to Tap List", additional_info = nil}
+MultiLanguageSpellData['cn'][94367] = {name = "<INTERNAL>Unlimited Potential: Boss Whisper to Tap List", additional_info = nil}
 MultiLanguageSpellData['cn'][94368] = {name = "Banish State Large Yellow", additional_info = nil}
 MultiLanguageSpellData['cn'][94369] = {name = "引爆", additional_info = "瞬发\n[q]接近后爆炸，造成火焰伤害，并打退附近的敌人。"}
 MultiLanguageSpellData['cn'][94372] = {name = "拦截雕文", additional_info = "[q]使你的拦截造成的昏迷持续时间延长1秒。"}
@@ -12434,7 +12434,7 @@ MultiLanguageSpellData['cn'][94392] = {name = "Coffer of Promise Beam", addition
 MultiLanguageSpellData['cn'][94394] = {name = "Fade to Black - DGK [INTERNAL ONLY]", additional_info = nil}
 MultiLanguageSpellData['cn'][94395] = {name = "召唤司克诺兹", additional_info = nil}
 MultiLanguageSpellData['cn'][94396] = {name = "闪电链", additional_info = "60 码范围\n4秒 施法时间\n[q]使用闪电箭攻击敌人，然后箭矢会弹射到附近另一个敌人身上。法术最多影响0个目标，每次造成自然伤害。"}
-MultiLanguageSpellData['cn'][94397] = {name = "Put it On: Reverse Cast Ride", additional_info = nil}
+MultiLanguageSpellData['cn'][94397] = {name = "<INTERNAL>Put it On: Reverse Cast Ride", additional_info = nil}
 MultiLanguageSpellData['cn'][94398] = {name = "Creator Summon Schnottz", additional_info = nil}
 MultiLanguageSpellData['cn'][94400] = {name = "召唤德莱尼", additional_info = nil}
 MultiLanguageSpellData['cn'][94401] = {name = "猛虎之怒雕文", additional_info = "3秒 施法时间 3\n工具:\n学者的书写工具\n施法材料:\n狮王墨水 (3), 轻羊皮纸\n职业： 德鲁伊\n25\n[q2]使用: "}
@@ -12443,10 +12443,10 @@ MultiLanguageSpellData['cn'][94403] = {name = "精灵之火雕文", additional_i
 MultiLanguageSpellData['cn'][94404] = {name = "野性冲锋雕文", additional_info = "3秒 施法时间 3\n工具:\n学者的书写工具\n施法材料:\n碧火墨水 (3), 轻羊皮纸\n职业： 德鲁伊\n29\n[q2]使用: "}
 MultiLanguageSpellData['cn'][94405] = {name = "死亡之愿雕文", additional_info = "3秒 施法时间 3\n工具:\n学者的书写工具\n施法材料:\n碧火墨水 (3), 轻羊皮纸\n职业： 战士\n29\n[q2]使用: \n[q2]使死亡之愿不再提高受到的伤害。"}
 MultiLanguageSpellData['cn'][94406] = {name = "拦截雕文", additional_info = "3秒 施法时间 3\n工具:\n学者的书写工具\n施法材料:\n闪光墨水 (3), 轻羊皮纸\n职业： 战士\n50\n[q2]使用: \n[q2]使你的拦截造成的昏迷持续时间延长1秒。"}
-MultiLanguageSpellData['cn'][94422] = {name = "Skullcrusher the Mountain: Reverse Cast Ride", additional_info = nil}
+MultiLanguageSpellData['cn'][94422] = {name = "<INTERNAL>Skullcrusher the Mountain: Reverse Cast Ride", additional_info = nil}
 MultiLanguageSpellData['cn'][94423] = {name = "Cosmetic - White Smoke", additional_info = nil}
 MultiLanguageSpellData['cn'][94424] = {name = "Banish State Small Yellow", additional_info = nil}
-MultiLanguageSpellData['cn'][94425] = {name = "Skullcrusher the Mountain: Fade to Black", additional_info = nil}
+MultiLanguageSpellData['cn'][94425] = {name = "<INTERNAL>Skullcrusher the Mountain: Fade to Black", additional_info = nil}
 MultiLanguageSpellData['cn'][94426] = {name = "Coffer Beam Death", additional_info = nil}
 MultiLanguageSpellData['cn'][94428] = {name = "逮住骆驼", additional_info = "20 码范围\n瞬发\n[q]当野骆驼变得虚弱时将其捕获。"}
 MultiLanguageSpellData['cn'][94429] = {name = "Wild Camel Master Script", additional_info = nil}
@@ -12823,7 +12823,7 @@ MultiLanguageSpellData['cn'][95284] = {name = "传送", additional_info = nil}
 MultiLanguageSpellData['cn'][95285] = {name = "传送", additional_info = nil}
 MultiLanguageSpellData['cn'][95292] = {name = "Deathwing Fire Effects [INTERNAL ONLY]", additional_info = nil}
 MultiLanguageSpellData['cn'][95293] = {name = "Teleporter Base Visual", additional_info = nil}
-MultiLanguageSpellData['cn'][95294] = {name = "Cenarion Hold Skybox", additional_info = nil}
+MultiLanguageSpellData['cn'][95294] = {name = "Cenarion Hold Skybox <PH>", additional_info = nil}
 MultiLanguageSpellData['cn'][95296] = {name = "Teleporter Active Visual", additional_info = nil}
 MultiLanguageSpellData['cn'][95297] = {name = "See Deathwing's Fires [INTERNAL ONLY]", additional_info = nil}
 MultiLanguageSpellData['cn'][95298] = {name = "Teleporter Active Visual", additional_info = nil}
@@ -13021,8 +13021,8 @@ MultiLanguageSpellData['cn'][95536] = {name = "暗影吐息", additional_info = 
 MultiLanguageSpellData['cn'][95540] = {name = "Achievement Check - Fungalophobia", additional_info = nil}
 MultiLanguageSpellData['cn'][95541] = {name = "Achievement Check Clear - Fungalophobia", additional_info = nil}
 MultiLanguageSpellData['cn'][95542] = {name = "范克里夫的复仇", additional_info = "瞬发\n[q]使施法者的攻击速度提高4%，造成的物理伤害提高4%，持续until cancelled。"}
-MultiLanguageSpellData['cn'][95544] = {name = "Creature - Set Cannot Turn (true)", additional_info = nil}
-MultiLanguageSpellData['cn'][95545] = {name = "Creature - Set Cannot Turn (false)", additional_info = nil}
+MultiLanguageSpellData['cn'][95544] = {name = "<INTERNAL>Creature - Set Cannot Turn (true)", additional_info = nil}
+MultiLanguageSpellData['cn'][95545] = {name = "<INTERNAL>Creature - Set Cannot Turn (false)", additional_info = nil}
 MultiLanguageSpellData['cn'][95546] = {name = "巨匠级考古学", additional_info = nil}
 MultiLanguageSpellData['cn'][95547] = {name = "初级炼金术", additional_info = nil}
 MultiLanguageSpellData['cn'][95548] = {name = "中级炼金术", additional_info = nil}
@@ -13205,7 +13205,7 @@ MultiLanguageSpellData['cn'][95785] = {name = "Artillery Setup Aura", additional
 MultiLanguageSpellData['cn'][95786] = {name = "枭兽宝宝", additional_info = "瞬发\n[q]右键点击以召唤或解散你的枭兽宝宝。"}
 MultiLanguageSpellData['cn'][95787] = {name = "小拉格", additional_info = "瞬发\n[q]右键点击以召唤或解散小拉格。"}
 MultiLanguageSpellData['cn'][95791] = {name = "火热壁垒", additional_info = nil}
-MultiLanguageSpellData['cn'][95792] = {name = "Absorb Essence", additional_info = nil}
+MultiLanguageSpellData['cn'][95792] = {name = "Absorb Essence <DND>", additional_info = nil}
 MultiLanguageSpellData['cn'][95793] = {name = "电荷充能", additional_info = nil}
 MultiLanguageSpellData['cn'][95795] = {name = "Blitzkrieg Initialize PREVENT SPELL 01", additional_info = nil}
 MultiLanguageSpellData['cn'][95799] = {name = "强效暗影", additional_info = "瞬发\n[q]消耗一个暗影宝珠后，提高你在15 sec内造成的持续性暗影伤害。"}
@@ -18835,7 +18835,7 @@ MultiLanguageSpellData['cn'][107959] = {name = "召唤破城者", additional_inf
 MultiLanguageSpellData['cn'][107960] = {name = "战斗专注", additional_info = "瞬发\n[q]使你的敏捷提高88点，持续10 sec。"}
 MultiLanguageSpellData['cn'][107961] = {name = "Item - Dragon Soul Stacking Agility Trinket", additional_info = "[q]你的攻击使得敏捷提高88点，持续10 sec，最多可叠加10层。"}
 MultiLanguageSpellData['cn'][107962] = {name = "心灵延展", additional_info = "瞬发\n[q]使你的精神提高88点，持续10 sec。"}
-MultiLanguageSpellData['cn'][107963] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高88点，持续10 sec，最多可叠加10层。"}
+MultiLanguageSpellData['cn'][107963] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高88点，持续10 sec，最多可叠加10层。\n（100毫秒 冷却）"}
 MultiLanguageSpellData['cn'][107965] = {name = "暮光光束", additional_info = nil}
 MultiLanguageSpellData['cn'][107966] = {name = "泰坦之力", additional_info = "瞬发\n[q]使你的力量提高88点，持续10 sec。"}
 MultiLanguageSpellData['cn'][107967] = {name = "Item - Dragon Soul Stacking Strength Trinket", additional_info = "[q]你的近战攻击使得力量提高88点，持续10 sec，最多可以叠加10层。"}
@@ -19358,9 +19358,9 @@ MultiLanguageSpellData['cn'][109807] = {name = "奥术毁灭", additional_info =
 MultiLanguageSpellData['cn'][109808] = {name = "奥术毁灭", additional_info = nil}
 MultiLanguageSpellData['cn'][109809] = {name = "传送门腐蚀", additional_info = "瞬发\n[q]传送门鼓动着魔能的腐蚀，造成1750 to 2250点火焰伤害。"}
 MultiLanguageSpellData['cn'][109811] = {name = "心灵延展", additional_info = "瞬发\n[q]使你的精神提高78点，持续10 sec。"}
-MultiLanguageSpellData['cn'][109812] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高78点，持续10 sec，最多可叠加10层。"}
+MultiLanguageSpellData['cn'][109812] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高78点，持续10 sec，最多可叠加10层。\n（100毫秒 冷却）"}
 MultiLanguageSpellData['cn'][109813] = {name = "心灵延展", additional_info = "瞬发\n[q]使你的精神提高99点，持续10 sec。"}
-MultiLanguageSpellData['cn'][109814] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高99点，持续10 sec，最多可叠加10层。"}
+MultiLanguageSpellData['cn'][109814] = {name = "Item - Dragon Soul Stacking Healer Trinket", additional_info = "[q]你的治疗法术使你的精神提高99点，持续10 sec，最多可叠加10层。\n（100毫秒 冷却）"}
 MultiLanguageSpellData['cn'][109822] = {name = "雪中送炭", additional_info = "40 码范围\n瞬发\n[q]立即为一个友方目标恢复9203 to 10696点生命值。"}
 MultiLanguageSpellData['cn'][109823] = {name = "雪中送炭", additional_info = "[q]你的治疗法术产生爆击后，有一定几率立即为附近受伤最严重的团队成员恢复9203 to 10696点生命值。\n（特效触发几率：10%，20秒 冷却）"}
 MultiLanguageSpellData['cn'][109824] = {name = "邪能烈焰", additional_info = "无限范围\n瞬发\n[q]邪能烈焰聚合起来，焚烧所有附近的敌人，造成33250 to 36750点火焰伤害。"}
@@ -19472,7 +19472,7 @@ MultiLanguageSpellData['cn'][109943] = {name = "血肉之味", additional_info =
 MultiLanguageSpellData['cn'][109944] = {name = "食尸", additional_info = "瞄准 (10秒 施法时间)\n[q]每1秒为食尸者回复10%最大生命值，并使其伤害提高5%，最大生命值提高5%。"}
 MultiLanguageSpellData['cn'][109945] = {name = "食尸", additional_info = "5 码范围\n瞬发\n[q]激活之后，每1秒回复总生命值的10%，持续10 sec。只能对半径5码范围内的时光扭曲天灾兽的尸体使用。"}
 MultiLanguageSpellData['cn'][109946] = {name = "水晶晶簇", additional_info = "瞬发\n[q]将水晶晶簇砸碎，看看你能获得哪些宝石！"}
-MultiLanguageSpellData['cn'][109947] = {name = "源质覆盖的晶簇", additional_info = "瞬发\n[q]将源质覆盖的晶簇砸碎，获取暗影尖石，熔火珊瑚或是皇后榴石！"}
+MultiLanguageSpellData['cn'][109947] = {name = "源质覆盖的晶簇", additional_info = "瞬发\n[q]将源质覆盖的晶簇砸碎，获取光芒石、精灵榄石、深岩青石、暗影尖石、熔火珊瑚或是皇后榴石！"}
 MultiLanguageSpellData['cn'][109948] = {name = "完美的晶簇", additional_info = "瞬发\n[q]将完美的晶簇砸碎，看看你能获得哪些史诗级宝石！"}
 MultiLanguageSpellData['cn'][109949] = {name = "灭世者之怒", additional_info = "100 码范围\n瞬发\n[q]立即使你获得5个连击点数，并使你在使用终结技后获得5个连击点数。持续6 sec。"}
 MultiLanguageSpellData['cn'][109950] = {name = "灭世者之怒", additional_info = "100 码范围\n瞬发\n[q]获得5个连击点数。"}
@@ -20433,70 +20433,70 @@ MultiLanguageSpellData['cn'][1224198] = {name = "[q3]恶毒蟒皮护手", additi
 MultiLanguageSpellData['cn'][1224199] = {name = "[q3]恶毒蟒皮罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]恶毒蟒皮罩帽\n装备后绑定\n头部 皮甲\n1472护甲\n+605 耐力\n+403 智力\n耐久: 85 / 85\n85"}
 MultiLanguageSpellData['cn'][1224200] = {name = "[q3]恶毒蟒皮护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]恶毒蟒皮护腿\n装备后绑定\n腿部 皮甲\n1585护甲\n+605 耐力\n+403 智力\n+242精神\n耐久: 100 / 100\n85"}
 MultiLanguageSpellData['cn'][1224201] = {name = "[q3]恶毒蟒皮护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)\n[q3]恶毒蟒皮护肩\n装备后绑定\n肩部 皮甲\n1359护甲\n+450 耐力\n+300 智力\n耐久: 85 / 85\n85"}
-MultiLanguageSpellData['cn'][1224208] = {name = "[q3]织焰腰带", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (3), 动燃空气 (3)"}
-MultiLanguageSpellData['cn'][1224209] = {name = "[q3]余烬护腕", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (4), 动燃之水 (4)"}
-MultiLanguageSpellData['cn'][1224210] = {name = "[q3]织焰护腕", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (3), 动燃空气 (3)"}
-MultiLanguageSpellData['cn'][1224211] = {name = "[q3]余烬肩垫", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃之水 (3), 动燃火焰 (3)"}
-MultiLanguageSpellData['cn'][1224212] = {name = "[q3]织焰护肩", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)"}
-MultiLanguageSpellData['cn'][1224213] = {name = "[q3]余烬腰带", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224214] = {name = "[q3]织焰之靴", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃之水 (4)"}
-MultiLanguageSpellData['cn'][1224215] = {name = "[q3]余烬手套", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224216] = {name = "[q3]织焰裹手", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)"}
-MultiLanguageSpellData['cn'][1224217] = {name = "[q3]余烬之靴", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224218] = {name = "[q3]织焰长裤", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)"}
-MultiLanguageSpellData['cn'][1224219] = {name = "[q3]织焰长袍", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (8), 动燃火焰 (4), 动燃空气 (4)"}
-MultiLanguageSpellData['cn'][1224220] = {name = "[q3]织焰兜帽", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)"}
-MultiLanguageSpellData['cn'][1224221] = {name = "[q3]余烬长袍", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224222] = {name = "[q3]余烬兜帽", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224223] = {name = "[q3]余烬护腿", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)"}
-MultiLanguageSpellData['cn'][1224224] = {name = "[q3]染血的燃钢护腕", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (8), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224225] = {name = "[q3]染血的燃钢护手", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224226] = {name = "[q3]染血的燃钢腰带", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224227] = {name = "[q3]染血的燃钢长靴", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224228] = {name = "[q3]染血的燃钢肩铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224229] = {name = "[q3]染血的燃钢腿铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224230] = {name = "[q3]染血的燃钢头盔", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224231] = {name = "[q3]染血的燃钢胸铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224232] = {name = "[q3]精制燃钢腕甲", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (8), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224233] = {name = "[q3]精制燃钢手铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224234] = {name = "[q3]精制燃钢腰带", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224235] = {name = "[q3]精制燃钢战靴", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224236] = {name = "[q3]精制燃钢肩铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224237] = {name = "[q3]精制燃钢腿铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224238] = {name = "[q3]精制燃钢战盔", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224239] = {name = "[q3]精制燃钢胸铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224240] = {name = "[q3]染血的蟒皮护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224241] = {name = "[q3]染血的蟒皮腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224242] = {name = "[q3]染血的皮质护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224243] = {name = "[q3]染血的皮质护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224244] = {name = "[q3]染血的鳞片护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224245] = {name = "[q3]染血的鳞片护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224246] = {name = "[q3]染血的龙鳞护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224247] = {name = "[q3]染血的龙鳞护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224248] = {name = "[q3]染血的蟒皮护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224249] = {name = "[q3]染血的蟒皮长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224250] = {name = "[q3]染血的皮质长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224251] = {name = "[q3]染血的皮质护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224252] = {name = "[q3]染血的鳞片长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224253] = {name = "[q3]染血的鳞片腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224254] = {name = "[q3]染血的龙鳞长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224255] = {name = "[q3]染血的龙鳞护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)"}
-MultiLanguageSpellData['cn'][1224256] = {name = "[q3]染血的蟒皮护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224257] = {name = "[q3]染血的蟒皮护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224258] = {name = "[q3]染血的皮质腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224259] = {name = "[q3]染血的皮质罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224260] = {name = "[q3]染血的鳞片护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224261] = {name = "[q3]染血的鳞片护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224262] = {name = "[q3]染血的龙鳞腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224263] = {name = "[q3]染血的龙鳞罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)"}
-MultiLanguageSpellData['cn'][1224264] = {name = "[q3]染血的蟒皮护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224265] = {name = "[q3]染血的蟒皮罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224266] = {name = "[q3]染血的皮质护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224267] = {name = "[q3]染血的皮质护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224268] = {name = "[q3]染血的鳞片护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224269] = {name = "[q3]染血的鳞片罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224270] = {name = "[q3]染血的龙鳞护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
-MultiLanguageSpellData['cn'][1224271] = {name = "[q3]染血的龙鳞护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)"}
+MultiLanguageSpellData['cn'][1224208] = {name = "[q3]织焰腰带", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (3), 动燃空气 (3)\n[q3]织焰腰带\n装备后绑定\n腰部 布甲\n648护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224209] = {name = "[q3]余烬护腕", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (4), 动燃之水 (4)\n[q3]余烬护腕\n装备后绑定\n手腕 布甲\n504护甲\n+237 耐力\n+158 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224210] = {name = "[q3]织焰护腕", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃火焰 (3), 动燃空气 (3)\n[q3]织焰护腕\n装备后绑定\n手腕 布甲\n504护甲\n+237 耐力\n+158 智力\n[q2]+ 105精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224211] = {name = "[q3]余烬肩垫", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (6), 动燃之水 (3), 动燃火焰 (3)\n[q3]余烬肩垫\n装备后绑定\n肩部 布甲\n864护甲\n+316 耐力\n+210 智力\n+140精神\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224212] = {name = "[q3]织焰护肩", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)\n[q3]织焰护肩\n装备后绑定\n肩部 布甲\n864护甲\n+316 耐力\n+210 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224213] = {name = "[q3]余烬腰带", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬腰带\n装备后绑定\n腰部 布甲\n648护甲\n+316 耐力\n+210 智力\n[q2]+ 140精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224214] = {name = "[q3]织焰之靴", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃之水 (4)\n[q3]织焰之靴\n装备后绑定\n脚 布甲\n792护甲\n+316 耐力\n+210 智力\n[q2]+ 140精通\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224215] = {name = "[q3]余烬手套", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬手套\n装备后绑定\n手 布甲\n720护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224216] = {name = "[q3]织焰裹手", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)\n[q3]织焰裹手\n装备后绑定\n手 布甲\n720护甲\n+316 耐力\n+210 智力\n[q2]+ 140精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224217] = {name = "[q3]余烬之靴", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬之靴\n装备后绑定\n脚 布甲\n792护甲\n+316 耐力\n+210 智力\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224218] = {name = "[q3]织焰长裤", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)\n[q3]织焰长裤\n装备后绑定\n腿部 布甲\n1008护甲\n+425 耐力\n+283 智力\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224219] = {name = "[q3]织焰长袍", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (8), 动燃火焰 (4), 动燃空气 (4)\n[q3]织焰长袍\n装备后绑定\n胸部 布甲\n1151护甲\n+425 耐力\n+283 智力\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224220] = {name = "[q3]织焰兜帽", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃火焰 (4), 动燃空气 (4)\n[q3]织焰兜帽\n装备后绑定\n头部 布甲\n936护甲\n+425 耐力\n+283 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224221] = {name = "[q3]余烬长袍", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬长袍\n装备后绑定\n胸部 布甲\n1151护甲\n+425 耐力\n+283 智力\n+189精神\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224222] = {name = "[q3]余烬兜帽", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬兜帽\n装备后绑定\n头部 布甲\n936护甲\n+425 耐力\n+283 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224223] = {name = "[q3]余烬护腿", additional_info = "2秒 施法时间\n施法材料:\n烬丝布卷 (10), 动燃之水 (4), 动燃火焰 (4)\n[q3]余烬护腿\n装备后绑定\n腿部 布甲\n1008护甲\n+425 耐力\n+283 智力\n[q2]+ 189精通\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224224] = {name = "[q3]染血的燃钢护腕", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (8), 动燃火焰 (10)\n[q3]染血的燃钢护腕\n装备后绑定\n手腕 板甲\n1402护甲\n+158 力量\n+237 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224225] = {name = "[q3]染血的燃钢护手", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃火焰 (10)\n[q3]染血的燃钢护手\n装备后绑定\n手 板甲\n2003护甲\n+210 力量\n+316 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224226] = {name = "[q3]染血的燃钢腰带", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃火焰 (10)\n[q3]染血的燃钢腰带\n装备后绑定\n腰部 板甲\n1803护甲\n+210 力量\n+316 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224227] = {name = "[q3]染血的燃钢长靴", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃火焰 (10)\n[q3]染血的燃钢长靴\n装备后绑定\n脚 板甲\n2204护甲\n+210 力量\n+316 耐力\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224228] = {name = "[q3]染血的燃钢肩铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃火焰 (10)\n[q3]染血的燃钢肩铠\n装备后绑定\n肩部 板甲\n2404护甲\n+210 力量\n+316 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224229] = {name = "[q3]染血的燃钢腿铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)\n[q3]染血的燃钢腿铠\n装备后绑定\n腿部 板甲\n2805护甲\n+283 力量\n+425 耐力\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224230] = {name = "[q3]染血的燃钢头盔", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)\n[q3]染血的燃钢头盔\n装备后绑定\n头部 板甲\n2605护甲\n+283 力量\n+425 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224231] = {name = "[q3]染血的燃钢胸铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃火焰 (10)\n[q3]染血的燃钢胸铠\n装备后绑定\n胸部 板甲\n3206护甲\n+283 力量\n+425 耐力\n[q2]+ 189精通\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224232] = {name = "[q3]精制燃钢腕甲", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (8), 动燃之水 (10)\n[q3]精制燃钢腕甲\n装备后绑定\n手腕 板甲\n1402护甲\n+237 耐力\n+158 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224233] = {name = "[q3]精制燃钢手铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃之水 (10)\n[q3]精制燃钢手铠\n装备后绑定\n手 板甲\n2003护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224234] = {name = "[q3]精制燃钢腰带", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (10), 动燃之水 (10)\n[q3]精制燃钢腰带\n装备后绑定\n腰部 板甲\n1803护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224235] = {name = "[q3]精制燃钢战靴", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃之水 (10)\n[q3]精制燃钢战靴\n装备后绑定\n脚 板甲\n2204护甲\n+316 耐力\n+210 智力\n[q2]+ 140精通\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224236] = {name = "[q3]精制燃钢肩铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (12), 动燃之水 (10)\n[q3]精制燃钢肩铠\n装备后绑定\n肩部 板甲\n2404护甲\n+316 耐力\n+210 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224237] = {name = "[q3]精制燃钢腿铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)\n[q3]精制燃钢腿铠\n装备后绑定\n腿部 板甲\n2805护甲\n+425 耐力\n+283 智力\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224238] = {name = "[q3]精制燃钢战盔", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)\n[q3]精制燃钢战盔\n装备后绑定\n头部 板甲\n2605护甲\n+425 耐力\n+283 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224239] = {name = "[q3]精制燃钢胸铠", additional_info = "2秒 施法时间\n工具:\n铁匠锤\n施法材料:\n源质锭 (15), 动燃之水 (10)\n[q3]精制燃钢胸铠\n装备后绑定\n胸部 板甲\n3206护甲\n+425 耐力\n+283 智力\n[q2]+ 189精通\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224240] = {name = "[q3]染血的蟒皮护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的蟒皮护腕\n装备后绑定\n手腕 皮甲\n677护甲\n+237 耐力\n+158 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224241] = {name = "[q3]染血的蟒皮腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的蟒皮腰带\n装备后绑定\n腰部 皮甲\n870护甲\n+316 耐力\n+210 智力\n[q2]+ 126精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224242] = {name = "[q3]染血的皮质护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的皮质护腕\n装备后绑定\n手腕 皮甲\n677护甲\n+158 敏捷\n+237 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224243] = {name = "[q3]染血的皮质护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的皮质护手\n装备后绑定\n手 皮甲\n967护甲\n+210 敏捷\n+316 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224244] = {name = "[q3]染血的鳞片护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的鳞片护腕\n装备后绑定\n手腕 锁甲\n993护甲\n+237 耐力\n+158 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224245] = {name = "[q3]染血的鳞片护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的鳞片护手\n装备后绑定\n手 锁甲\n1418护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224246] = {name = "[q3]染血的龙鳞护腕", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的龙鳞护腕\n装备后绑定\n手腕 锁甲\n993护甲\n+158 敏捷\n+237 耐力\n[q2]+ 120精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224247] = {name = "[q3]染血的龙鳞护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的龙鳞护肩\n装备后绑定\n肩部 锁甲\n1702护甲\n+210 敏捷\n+316 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224248] = {name = "[q3]染血的蟒皮护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的蟒皮护手\n装备后绑定\n手 皮甲\n967护甲\n+316 耐力\n+210 智力\n+156精神\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224249] = {name = "[q3]染血的蟒皮长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的蟒皮长靴\n装备后绑定\n脚 皮甲\n1064护甲\n+316 耐力\n+210 智力\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224250] = {name = "[q3]染血的皮质长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的皮质长靴\n装备后绑定\n脚 皮甲\n1064护甲\n+210 敏捷\n+316 耐力\n[q2]+ 152精通\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224251] = {name = "[q3]染血的皮质护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃火焰 (10)\n[q3]染血的皮质护肩\n装备后绑定\n肩部 皮甲\n1160护甲\n+210 敏捷\n+316 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224252] = {name = "[q3]染血的鳞片长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的鳞片长靴\n装备后绑定\n脚 锁甲\n1560护甲\n+316 耐力\n+210 智力\n+113精神\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224253] = {name = "[q3]染血的鳞片腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的鳞片腰带\n装备后绑定\n腰部 锁甲\n1276护甲\n+316 耐力\n+210 智力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224254] = {name = "[q3]染血的龙鳞长靴", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的龙鳞长靴\n装备后绑定\n脚 锁甲\n1560护甲\n+210 敏捷\n+316 耐力\n耐久: 65 / 65\n85"}
+MultiLanguageSpellData['cn'][1224255] = {name = "[q3]染血的龙鳞护手", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃火焰 (10)\n[q3]染血的龙鳞护手\n装备后绑定\n手 锁甲\n1418护甲\n+210 敏捷\n+316 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224256] = {name = "[q3]染血的蟒皮护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)\n[q3]染血的蟒皮护肩\n装备后绑定\n肩部 皮甲\n1160护甲\n+316 耐力\n+210 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224257] = {name = "[q3]染血的蟒皮护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)\n[q3]染血的蟒皮护胸\n装备后绑定\n胸部 皮甲\n1547护甲\n+425 耐力\n+283 智力\n[q2]+ 215精通\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224258] = {name = "[q3]染血的皮质腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)\n[q3]染血的皮质腰带\n装备后绑定\n腰部 皮甲\n870护甲\n+210 敏捷\n+316 耐力\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224259] = {name = "[q3]染血的皮质罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃之水 (10)\n[q3]染血的皮质罩帽\n装备后绑定\n头部 皮甲\n1257护甲\n+283 敏捷\n+425 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224260] = {name = "[q3]染血的鳞片护肩", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)\n[q3]染血的鳞片护肩\n装备后绑定\n肩部 锁甲\n1702护甲\n+316 耐力\n+210 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224261] = {name = "[q3]染血的鳞片护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)\n[q3]染血的鳞片护腿\n装备后绑定\n腿部 锁甲\n1985护甲\n+425 耐力\n+283 智力\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224262] = {name = "[q3]染血的龙鳞腰带", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)\n[q3]染血的龙鳞腰带\n装备后绑定\n腰部 锁甲\n1276护甲\n+210 敏捷\n+316 耐力\n[q2]+ 160精通\n耐久: 45 / 45\n85"}
+MultiLanguageSpellData['cn'][1224263] = {name = "[q3]染血的龙鳞罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃之水 (10)\n[q3]染血的龙鳞罩帽\n装备后绑定\n头部 锁甲\n1843护甲\n+283 敏捷\n+425 耐力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224264] = {name = "[q3]染血的蟒皮护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]染血的蟒皮护腿\n装备后绑定\n腿部 皮甲\n1354护甲\n+425 耐力\n+283 智力\n+170精神\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224265] = {name = "[q3]染血的蟒皮罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]染血的蟒皮罩帽\n装备后绑定\n头部 皮甲\n1257护甲\n+425 耐力\n+283 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224266] = {name = "[q3]染血的皮质护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]染血的皮质护胸\n装备后绑定\n胸部 皮甲\n1547护甲\n+283 敏捷\n+425 耐力\n[q2]+ 144精通\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224267] = {name = "[q3]染血的皮质护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (10), 动燃生命 (10)\n[q3]染血的皮质护腿\n装备后绑定\n腿部 皮甲\n1354护甲\n+283 敏捷\n+425 耐力\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224268] = {name = "[q3]染血的鳞片护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)\n[q3]染血的鳞片护胸\n装备后绑定\n胸部 锁甲\n2269护甲\n+425 耐力\n+283 智力\n耐久: 135 / 135\n85"}
+MultiLanguageSpellData['cn'][1224269] = {name = "[q3]染血的鳞片罩帽", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)\n[q3]染血的鳞片罩帽\n装备后绑定\n头部 锁甲\n1843护甲\n+425 耐力\n+283 智力\n耐久: 80 / 80\n85"}
+MultiLanguageSpellData['cn'][1224270] = {name = "[q3]染血的龙鳞护腿", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)\n[q3]染血的龙鳞护腿\n装备后绑定\n腿部 锁甲\n1985护甲\n+283 敏捷\n+425 耐力\n[q2]+ 210精通\n耐久: 100 / 100\n85"}
+MultiLanguageSpellData['cn'][1224271] = {name = "[q3]染血的龙鳞护胸", additional_info = "3秒 施法时间\n施法材料:\n重蛮皮 (8), 暗色龙鳞 (10), 动燃生命 (10)\n[q3]染血的龙鳞护胸\n装备后绑定\n胸部 锁甲\n2269护甲\n+283 敏捷\n+425 耐力\n耐久: 135 / 135\n85"}
 MultiLanguageSpellData['cn'][1224545] = {name = "无法进行巨龙之魂传送", additional_info = "瞬发\n[q]现在此PTR中还无法进入巨龙之魂。"}
 MultiLanguageSpellData['cn'][1224920] = {name = "暮光协议", additional_info = "无限范围\n瞬发 1分钟 冷却"}
 MultiLanguageSpellData['cn'][1224921] = {name = "暮光协议", additional_info = nil}
@@ -20564,3 +20564,4 @@ MultiLanguageSpellData['cn'][1227909] = {name = "暮光协议", additional_info 
 MultiLanguageSpellData['cn'][1229476] = {name = "法力虚空", additional_info = "瞬发\n[q]在5秒内吸取100%的法力值。"}
 MultiLanguageSpellData['cn'][1230531] = {name = "蓝龙军团的赐福", additional_info = nil}
 MultiLanguageSpellData['cn'][1231991] = {name = "Cooldown Creature Special", additional_info = "瞬发"}
+MultiLanguageSpellData['cn'][1236264] = {name = "Knockback Self 400 Vertical", additional_info = nil}
