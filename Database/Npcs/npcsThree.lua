@@ -39573,7 +39573,7 @@ MultiLanguageNpcData['cn'][166019] = {name = "烁光蛾", subname = nil}
 MultiLanguageNpcData['cn'][166020] = {name = "隐形的潜伏者", subname = nil}
 MultiLanguageNpcData['cn'][166021] = {name = "Path Marker", subname = nil}
 MultiLanguageNpcData['cn'][166022] = {name = "机警的仙狐", subname = nil}
-MultiLanguageNpcData['cn'][166023] = {name = "Maze Monkey Guide", subname = nil}
+MultiLanguageNpcData['cn'][166023] = {name = "Maze Monkey Guide", subname = "I will be removed"}
 MultiLanguageNpcData['cn'][166024] = {name = "活泼的幼年符兽", subname = nil}
 MultiLanguageNpcData['cn'][166025] = {name = "置景工", subname = "星光剧场公司"}
 MultiLanguageNpcData['cn'][166026] = {name = "穆厄扎拉的仆从", subname = nil}
@@ -39621,7 +39621,7 @@ MultiLanguageNpcData['cn'][166069] = {name = "奉纳长的储备", subname = nil
 MultiLanguageNpcData['cn'][166070] = {name = "转转", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][166071] = {name = "博格特", subname = nil}
 MultiLanguageNpcData['cn'][166073] = {name = "巨型炽蓝蛾", subname = nil}
-MultiLanguageNpcData['cn'][166074] = {name = "Psuedo Trash", subname = nil}
+MultiLanguageNpcData['cn'][166074] = {name = "Psuedo Trash", subname = "I will be replaced with Trash"}
 MultiLanguageNpcData['cn'][166075] = {name = "巨翼炽蓝蛾", subname = nil}
 MultiLanguageNpcData['cn'][166076] = {name = "垫垫", subname = "废物回收和修理"}
 MultiLanguageNpcData['cn'][166077] = {name = "灵魂之匣", subname = nil}
