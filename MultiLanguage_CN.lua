@@ -15,13 +15,6 @@ local function addLanguageOption()
         table.insert(MultiLanguageOptions.AVAILABLE_LANGUAGES, {value = 'cn', text = 'Chinese'})
         AddLanguageDropdownOption()
     end
-
-    if MultiLanguageTranslations['cn'] == nil then
-        MultiLanguageTranslations['cn'] = {
-            description = "描述",
-            objectives = "目标"
-        }
-    end
 end
 
 local function addonLoaded(self, event, addonLoadedName)
