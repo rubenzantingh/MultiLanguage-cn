@@ -33071,7 +33071,7 @@ MultiLanguageNpcData['cn'][158647] = {name = "Voidling", subname = nil}
 MultiLanguageNpcData['cn'][158648] = {name = "Greater Void Elemental", subname = nil}
 MultiLanguageNpcData['cn'][158649] = {name = "活化武器", subname = nil}
 MultiLanguageNpcData['cn'][158650] = {name = "Void Elemental", subname = nil}
-MultiLanguageNpcData['cn'][158651] = {name = "艾格茜娅", subname = nil}
+MultiLanguageNpcData['cn'][158651] = {name = "艾格茜娅", subname = "勇气圣杰"}
 MultiLanguageNpcData['cn'][158652] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['cn'][158653] = {name = "雷纳索尔王子", subname = nil}
 MultiLanguageNpcData['cn'][158654] = {name = "Dormant Portal", subname = nil}
@@ -45498,7 +45498,7 @@ MultiLanguageNpcData['cn'][172329] = {name = "Solstar Pests", subname = nil}
 MultiLanguageNpcData['cn'][172330] = {name = "欧蒂姆", subname = nil}
 MultiLanguageNpcData['cn'][172331] = {name = "艾莫尔", subname = nil}
 MultiLanguageNpcData['cn'][172333] = {name = "阿扎鲁克斯", subname = "国度终结者"}
-MultiLanguageNpcData['cn'][172334] = {name = "Chromie", subname = "[Emissary of the Bronze Dragonflight]"}
+MultiLanguageNpcData['cn'][172334] = {name = "克罗米", subname = "青铜龙军团使者"}
 MultiLanguageNpcData['cn'][172335] = {name = "魔药喷吐者", subname = nil}
 MultiLanguageNpcData['cn'][172336] = {name = "腐烂的血肉巨人", subname = nil}
 MultiLanguageNpcData['cn'][172337] = {name = "Credit - Return to Marasmius", subname = nil}

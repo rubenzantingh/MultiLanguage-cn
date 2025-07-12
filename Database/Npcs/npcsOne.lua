@@ -14516,7 +14516,7 @@ MultiLanguageNpcData['cn'][21334] = {name = "Veneratus Spawn Node", subname = ni
 MultiLanguageNpcData['cn'][21335] = {name = "玛尔卡鲁的触须", subname = nil}
 MultiLanguageNpcData['cn'][21336] = {name = "盖德拉", subname = "兽栏管理员"}
 MultiLanguageNpcData['cn'][21337] = {name = "伊利达雷暗影行者", subname = "伊利丹的仆从"}
-MultiLanguageNpcData['cn'][21338] = {name = "盘牙麻疯者", subname = nil}
+MultiLanguageNpcData['cn'][21338] = {name = "盘牙麻风者", subname = nil}
 MultiLanguageNpcData['cn'][21339] = {name = "盘牙尖啸者", subname = nil}
 MultiLanguageNpcData['cn'][21340] = {name = "德拉费拉", subname = "盖德拉的宠物"}
 MultiLanguageNpcData['cn'][21341] = {name = "维克多", subname = nil}
