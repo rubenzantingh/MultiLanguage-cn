@@ -27390,7 +27390,7 @@ MultiLanguageNpcData['cn'][97067] = {name = "Kill Credit: Zone Chosen", subname 
 MultiLanguageNpcData['cn'][97068] = {name = "风暴幼龙", subname = nil}
 MultiLanguageNpcData['cn'][97069] = {name = "愤怒领主勒考斯", subname = nil}
 MultiLanguageNpcData['cn'][97070] = {name = "杰斯·织暗", subname = "伊利达雷"}
-MultiLanguageNpcData['cn'][97071] = {name = "救赎者阿拉托尔", subname = nil}
+MultiLanguageNpcData['cn'][97071] = {name = "阿拉托尔", subname = nil}
 MultiLanguageNpcData['cn'][97072] = {name = "攻城锻造宗师科弗斯", subname = nil}
 MultiLanguageNpcData['cn'][97074] = {name = "胡金", subname = nil}
 MultiLanguageNpcData['cn'][97075] = {name = "Plaguecloud Idol", subname = nil}
@@ -27399,7 +27399,7 @@ MultiLanguageNpcData['cn'][97081] = {name = "布约恩国王", subname = nil}
 MultiLanguageNpcData['cn'][97083] = {name = "拉努夫国王", subname = nil}
 MultiLanguageNpcData['cn'][97084] = {name = "托尔国王", subname = nil}
 MultiLanguageNpcData['cn'][97085] = {name = "梅里克·冯德", subname = "船坞监工"}
-MultiLanguageNpcData['cn'][97086] = {name = "救赎者阿拉托尔", subname = nil}
+MultiLanguageNpcData['cn'][97086] = {name = "阿拉托尔", subname = nil}
 MultiLanguageNpcData['cn'][97087] = {name = "瓦拉加尔勇士", subname = nil}
 MultiLanguageNpcData['cn'][97088] = {name = "Kill Credit: Artifact Power Slotted", subname = nil}
 MultiLanguageNpcData['cn'][97089] = {name = "阿莎·鸦歌", subname = "伊利达雷"}
