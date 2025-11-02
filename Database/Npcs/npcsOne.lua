@@ -13534,7 +13534,7 @@ MultiLanguageNpcData['cn'][20088] = {name = "血鳞监工", subname = nil}
 MultiLanguageNpcData['cn'][20089] = {name = "血鳞召潮者", subname = nil}
 MultiLanguageNpcData['cn'][20090] = {name = "血鳞哨兵", subname = nil}
 MultiLanguageNpcData['cn'][20091] = {name = "血鳞侍从", subname = nil}
-MultiLanguageNpcData['cn'][20092] = {name = "商人哈斯辛", subname = nil}
+MultiLanguageNpcData['cn'][20092] = {name = "商人哈斯辛", subname = "补给商"}
 MultiLanguageNpcData['cn'][20093] = {name = "Blade's Edge - Arakkoa Spell Origin", subname = nil}
 MultiLanguageNpcData['cn'][20095] = {name = "葛雷诺克", subname = nil}
 MultiLanguageNpcData['cn'][20096] = {name = "乌利库", subname = "烹饪供应商"}
@@ -13733,7 +13733,7 @@ MultiLanguageNpcData['cn'][20373] = {name = "赫尼·马雷布镇长", subname =
 MultiLanguageNpcData['cn'][20374] = {name = "坎达尔", subname = nil}
 MultiLanguageNpcData['cn'][20375] = {name = "奈玛", subname = nil}
 MultiLanguageNpcData['cn'][20376] = {name = "杰瑞·卡特尔", subname = nil}
-MultiLanguageNpcData['cn'][20377] = {name = "酒吧招待凯利", subname = nil}
+MultiLanguageNpcData['cn'][20377] = {name = "酒吧招待凯利", subname = "调酒师"}
 MultiLanguageNpcData['cn'][20378] = {name = "厨师杰森", subname = nil}
 MultiLanguageNpcData['cn'][20379] = {name = "古板的比格尔", subname = nil}
 MultiLanguageNpcData['cn'][20380] = {name = "忠诚的莱雷恩", subname = nil}
@@ -46605,7 +46605,7 @@ MultiLanguageNpcData['cn'][62871] = {name = "童叟无欺普利", subname = "旅
 MultiLanguageNpcData['cn'][62872] = {name = "搏鱼者柯兰法", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][62873] = {name = "睡影赛图", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][62874] = {name = "守夜人卡里", subname = "旅店老板"}
-MultiLanguageNpcData['cn'][62875] = {name = "安静的吉姆", subname = nil}
+MultiLanguageNpcData['cn'][62875] = {name = "安静的吉姆", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][62876] = {name = "枯萎的林木", subname = nil}
 MultiLanguageNpcData['cn'][62877] = {name = "污泥盏", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][62878] = {name = "“砌石酒盏”阿楠", subname = "旅店老板"}
@@ -46667,7 +46667,7 @@ MultiLanguageNpcData['cn'][62963] = {name = "陈·风暴烈酒", subname = nil}
 MultiLanguageNpcData['cn'][62964] = {name = "Evie Credit", subname = nil}
 MultiLanguageNpcData['cn'][62965] = {name = "Evie Stormstout Controller", subname = nil}
 MultiLanguageNpcData['cn'][62966] = {name = "扎尼提克将军", subname = nil}
-MultiLanguageNpcData['cn'][62967] = {name = "艾希拉·逐晨者", subname = nil}
+MultiLanguageNpcData['cn'][62967] = {name = "艾希拉·逐晨者", subname = "旅店老板"}
 MultiLanguageNpcData['cn'][62968] = {name = "泥鳞食腐者", subname = nil}
 MultiLanguageNpcData['cn'][62969] = {name = "恐惧实体", subname = nil}
 MultiLanguageNpcData['cn'][62970] = {name = "齐长老", subname = nil}
