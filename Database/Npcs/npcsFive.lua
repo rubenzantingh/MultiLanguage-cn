@@ -4667,6 +4667,7 @@ MultiLanguageNpcData['cn'][254092] = {name = "伊特努丝", subname = nil}
 MultiLanguageNpcData['cn'][254093] = {name = "伊特努丝", subname = nil}
 MultiLanguageNpcData['cn'][254164] = {name = "海龙卷", subname = nil}
 MultiLanguageNpcData['cn'][254369] = {name = "控制器", subname = nil}
+MultiLanguageNpcData['cn'][256938] = {name = "卡德加的高级仆从", subname = nil}
 MultiLanguageNpcData['cn'][257023] = {name = "土狼", subname = nil}
 MultiLanguageNpcData['cn'][257026] = {name = "Clefthoof", subname = nil}
 MultiLanguageNpcData['cn'][257031] = {name = "Felhound", subname = nil}
