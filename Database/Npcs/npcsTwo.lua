@@ -1,3 +1,4 @@
+MultiLanguageNpcData['cn'][64971] = {name = "扎尼提克穿刺者", subname = nil}
 MultiLanguageNpcData['cn'][64973] = {name = "扎尼提克操纵者", subname = nil}
 MultiLanguageNpcData['cn'][64977] = {name = "玛瑙云端翔龙", subname = nil}
 MultiLanguageNpcData['cn'][64979] = {name = "巢卫维克阿兹", subname = nil}
@@ -1097,3 +1098,4 @@ MultiLanguageNpcData['cn'][247731] = {name = "砮皂", subname = "玄牛"}
 MultiLanguageNpcData['cn'][247732] = {name = "玉珑", subname = "青龙"}
 MultiLanguageNpcData['cn'][252803] = {name = "热油大锅", subname = nil}
 MultiLanguageNpcData['cn'][253198] = {name = "大夜魔", subname = nil}
+MultiLanguageNpcData['cn'][255994] = {name = "埃索达复制品", subname = nil}

@@ -25228,4 +25228,3 @@ MultiLanguageNpcData['cn'][64949] = {name = "云游的朝圣者", subname = nil}
 MultiLanguageNpcData['cn'][64953] = {name = "游学者舒春", subname = nil}
 MultiLanguageNpcData['cn'][64965] = {name = "秘烙", subname = "阿拉尼的子嗣"}
 MultiLanguageNpcData['cn'][64970] = {name = "被操控的矿工", subname = nil}
-MultiLanguageNpcData['cn'][64971] = {name = "扎尼提克穿刺者", subname = nil}
